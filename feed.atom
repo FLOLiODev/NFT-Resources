@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-22T01:38:46.646Z</updated>
+    <updated>2022-04-23T01:18:52.450Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -92,16 +92,6 @@
         <link href="https://flolio.com/resources/bored-ape-yacht-club-the-ultimate-guide"/>
         <updated>2022-03-25T14:22:00.000Z</updated>
         <summary type="html"><![CDATA[There is a local band I loved and followed in college. It is said that the unique name, Love Seed Mama Jump, was created by the four core band members tossing a word into a hat. The order the words came out would be the band’s name, and all four agreed to this naming concept [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase: Good, Bad, Ugly]]></title>
-        <id>https://flolio.com/resources/?p=653</id>
-        <link href="https://flolio.com/resources/coinbase-good-bad-ugly"/>
-        <updated>2022-03-23T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[You have likely heard the name floating around: Coinbase. But, what exactly is it? And what does it mean in the world of crypto? In its simplest terms, Coinbase is an application that can be added to a smart device, such as a phone, desktop, or laptop. It is an exchange for different forms of [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
