@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-24T01:18:27.596Z</updated>
+    <updated>2022-04-25T01:20:09.590Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://flolio.com/resources/best-blockchains-you-need-to-know"/>
         <updated>2022-03-28T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[It’s no surprise that blockchain technology is becoming more popular with time. This new, revolutionary way of doing business has applications in every industry imaginable and it seems like there’s something out today for everyone! The benefits are huge- from healthcare databases to logistics networks; this system makes sure records stay accurate while saving plenty [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bored Ape Yacht Club: The Ultimate Guide]]></title>
-        <id>https://flolio.com/resources/?p=657</id>
-        <link href="https://flolio.com/resources/bored-ape-yacht-club-the-ultimate-guide"/>
-        <updated>2022-03-25T14:22:00.000Z</updated>
-        <summary type="html"><![CDATA[There is a local band I loved and followed in college. It is said that the unique name, Love Seed Mama Jump, was created by the four core band members tossing a word into a hat. The order the words came out would be the band’s name, and all four agreed to this naming concept [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
