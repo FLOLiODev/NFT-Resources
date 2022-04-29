@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-28T02:01:39.477Z</updated>
+    <updated>2022-04-29T01:27:08.530Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -62,16 +62,6 @@
         <link href="https://flolio.com/resources/the-crypto-collectibles-marketplace"/>
         <updated>2022-03-31T17:25:00.000Z</updated>
         <summary type="html"><![CDATA[In a vast and ever-changing world of cryptocurrencies, NFTs, and volatile markets, it can be tough to keep it all straight. One of the fun and exciting ventures in the marketplace is crypto collectibles. To better understand this growing phenomenon, let’s take a look at the components that make up the space, the most popular [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxy Smart Contract – The New Frontier]]></title>
-        <id>https://flolio.com/resources/?p=667</id>
-        <link href="https://flolio.com/resources/proxy-smart-contract"/>
-        <updated>2022-03-30T13:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts are often considered to be a more secure and permanent form of agreement. However, because their source code cannot be changed or updated without causing an issue with the blockchain itself – which would lead to potential vulnerabilities- there needs to exist some degree of mutability for bug fixations as well as new [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>

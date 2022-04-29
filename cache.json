@@ -64,16 +64,6 @@
           "wordCount": 3167,
           "title": "The Crypto Collectibles Marketplace",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/crypto-collectibles-marketplace.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=667",
-          "author": "FLOLiO",
-          "description": "Smart contracts are often considered to be a more secure and permanent form of agreement. However, because their source code cannot be changed or updated without causing an issue with the blockchain itself – which would lead to potential vulnerabilities- there needs to exist some degree of mutability for bug fixations as well as new [...]",
-          "link": "https://flolio.com/resources/proxy-smart-contract",
-          "publishedOn": "2022-03-30T13:19:00.000Z",
-          "wordCount": 3378,
-          "title": "Proxy Smart Contract – The New Frontier",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/proxy-smart-contract.png"
         }
       ]
     }
