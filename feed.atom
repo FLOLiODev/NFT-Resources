@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-29T01:27:08.530Z</updated>
+    <updated>2022-04-30T01:42:28.782Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Crypto Commodity?]]></title>
+        <id>https://flolio.com/resources/?p=838</id>
+        <link href="https://flolio.com/resources/what-is-crypto-commodity"/>
+        <updated>2022-04-29T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As you become entangled in the wide world of cryptocurrency exchanges, it can be a confusing space. There are many terms from the traditional investing arena that crossover, though may have different meanings. A cryptocurrency, also abbreviated often as just “crypto” for short, is a digital asset. It can be a representation of a real-world [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build dApps: A Comprehensive Guide to Decentralized Applications]]></title>
+        <id>https://flolio.com/resources/?p=833</id>
+        <link href="https://flolio.com/resources/building-dapps"/>
+        <updated>2022-04-28T12:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Decentralized applications (dApps) are the next step in blockchain technology. They are web applications that allow developers to create a full-featured app on the blockchain instead of just leveraging the functionality of smart contracts or tokens. In this post, we’ll explore how to build a dApp on the Ethereum network and what it means for [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best DeFi Tools to Optimize Your Crypto Experience]]></title>
+        <id>https://flolio.com/resources/?p=825</id>
+        <link href="https://flolio.com/resources/best-defi-tools"/>
+        <updated>2022-04-27T13:54:00.000Z</updated>
+        <summary type="html"><![CDATA[When you’re investing in the cryptocurrency space, there’s a lot of unpredictability and uncertainty. With so many DeFi projects available, narrowing down which one is right for you may be difficult; the right tools will make your job easier. DeFi tools will help you analyze the DeFi ecosystem and find new opportunities to grow your [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Otherside Land, MNLTH and Llamaverse | EP #31 | Web3 and Me]]></title>
+        <id>https://flolio.com/resources/?p=1089</id>
+        <link href="https://flolio.com/resources/ep31"/>
+        <updated>2022-04-26T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, Dan and JWeb discuss more information dropped on Otherside Land, the reveal of the MNLTH and the second roadmap dropped by Llamaverse.]]></summary>
+        <author>
+            <name>Web3 and Me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEB2 vs WEB3]]></title>
+        <id>https://flolio.com/resources/?p=821</id>
+        <link href="https://flolio.com/resources/web2-vs-web3"/>
+        <updated>2022-04-25T13:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Technology is an ever-changing world of new and exciting advancements. Even things that have long been a staple in society, like the world wide web, can adapt and update. Since its inception, the web has changed in many ways. The best part of technology is there is always room for that growth. It is the [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akutars, Coinbase NFT and Weekly recap | EP #30 | Web3 and Me]]></title>
+        <id>https://flolio.com/resources/?p=1082</id>
+        <link href="https://flolio.com/resources/ep30"/>
+        <updated>2022-04-22T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, Dan and JWeb talk about Akutars, the launch of Coinbase NFT, and cover their weekly recap of the NFT market.]]></summary>
+        <author>
+            <name>Web3 and Me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of NFT Trading Cards]]></title>
+        <id>https://flolio.com/resources/?p=816</id>
+        <link href="https://flolio.com/resources/nft-trading-cards"/>
+        <updated>2022-04-21T16:18:00.000Z</updated>
+        <summary type="html"><![CDATA[The creation of the first NFT in 2014 ushered in a new era in digital technology that has altered the way the public interacts with digital assets. Since that time, the nature of non-fungible tokens has also changed, shifting from an item meant to display digital art to a new medium where fans, artists, and [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Buy DeFi Coin]]></title>
+        <id>https://flolio.com/resources/?p=812</id>
+        <link href="https://flolio.com/resources/how-to-buy-defi-coin"/>
+        <updated>2022-04-20T13:46:00.000Z</updated>
+        <summary type="html"><![CDATA[If you are ready to make a purchase but need some help first understanding the basics and then knowing how and where to buy DeFi, you’ve come to the right place. We will break down the steps necessary to obtain these new hot commodities on the cryptocurrency exchanges, and explain exactly what is required for [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moonbirds weekend recap and lookahead | EP #29 | Web3 and Me]]></title>
+        <id>https://flolio.com/resources/?p=1075</id>
+        <link href="https://flolio.com/resources/ep29"/>
+        <updated>2022-04-19T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dan and JWeb talk about the crazy launch of Moonbirds NFT, the impact of it on the market, and review the NFTs they bought and sold over the last week.]]></summary>
+        <author>
+            <name>Web3 and Me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gemini Exchange: Ultimate Guide]]></title>
+        <id>https://flolio.com/resources/?p=801</id>
+        <link href="https://flolio.com/resources/gemini-exchange"/>
+        <updated>2022-04-18T15:37:00.000Z</updated>
+        <summary type="html"><![CDATA[There must have been something in the water at Harvard around the time that Mark Zuckerberg attended. If that name sounds familiar, it should. This CEO and creator of Facebook attended the school in 2002-2004, but he wasn’t alone in creating amazing platforms. At the same time, fellow classmates, the Winklevoss twins, Cameron and Tyler [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is dApp?]]></title>
         <id>https://flolio.com/resources/?p=720</id>

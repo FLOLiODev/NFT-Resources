@@ -6,6 +6,106 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=838",
+          "author": "FLOLiO",
+          "description": "As you become entangled in the wide world of cryptocurrency exchanges, it can be a confusing space. There are many terms from the traditional investing arena that crossover, though may have different meanings. A cryptocurrency, also abbreviated often as just “crypto” for short, is a digital asset. It can be a representation of a real-world [...]",
+          "link": "https://flolio.com/resources/what-is-crypto-commodity",
+          "publishedOn": "2022-04-29T14:00:00.000Z",
+          "wordCount": 3622,
+          "title": "What is Crypto Commodity?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-crypto-commodity.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=833",
+          "author": "FLOLiO",
+          "description": "Decentralized applications (dApps) are the next step in blockchain technology. They are web applications that allow developers to create a full-featured app on the blockchain instead of just leveraging the functionality of smart contracts or tokens. In this post, we’ll explore how to build a dApp on the Ethereum network and what it means for [...]",
+          "link": "https://flolio.com/resources/building-dapps",
+          "publishedOn": "2022-04-28T12:58:00.000Z",
+          "wordCount": 4704,
+          "title": "How to Build dApps: A Comprehensive Guide to Decentralized Applications",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/building-dapps.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=825",
+          "author": "FLOLiO",
+          "description": "When you’re investing in the cryptocurrency space, there’s a lot of unpredictability and uncertainty. With so many DeFi projects available, narrowing down which one is right for you may be difficult; the right tools will make your job easier. DeFi tools will help you analyze the DeFi ecosystem and find new opportunities to grow your [...]",
+          "link": "https://flolio.com/resources/best-defi-tools",
+          "publishedOn": "2022-04-27T13:54:00.000Z",
+          "wordCount": 2623,
+          "title": "The Best DeFi Tools to Optimize Your Crypto Experience",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/best-defi-tools.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=1089",
+          "author": "Web3 and Me",
+          "description": "In this episode, Dan and JWeb discuss more information dropped on Otherside Land, the reveal of the MNLTH and the second roadmap dropped by Llamaverse.",
+          "link": "https://flolio.com/resources/ep31",
+          "publishedOn": "2022-04-26T17:00:00.000Z",
+          "wordCount": 684,
+          "title": "Otherside Land, MNLTH and Llamaverse | EP #31 | Web3 and Me",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/ep31.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=821",
+          "author": "FLOLiO",
+          "description": "Technology is an ever-changing world of new and exciting advancements. Even things that have long been a staple in society, like the world wide web, can adapt and update. Since its inception, the web has changed in many ways. The best part of technology is there is always room for that growth. It is the [...]",
+          "link": "https://flolio.com/resources/web2-vs-web3",
+          "publishedOn": "2022-04-25T13:32:00.000Z",
+          "wordCount": 4157,
+          "title": "WEB2 vs WEB3",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/web2-vs-web3.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=1082",
+          "author": "Web3 and Me",
+          "description": "In this episode, Dan and JWeb talk about Akutars, the launch of Coinbase NFT, and cover their weekly recap of the NFT market.",
+          "link": "https://flolio.com/resources/ep30",
+          "publishedOn": "2022-04-22T17:00:00.000Z",
+          "wordCount": 683,
+          "title": "Akutars, Coinbase NFT and Weekly recap | EP #30 | Web3 and Me",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/ep30.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=816",
+          "author": "FLOLiO",
+          "description": "The creation of the first NFT in 2014 ushered in a new era in digital technology that has altered the way the public interacts with digital assets. Since that time, the nature of non-fungible tokens has also changed, shifting from an item meant to display digital art to a new medium where fans, artists, and [...]",
+          "link": "https://flolio.com/resources/nft-trading-cards",
+          "publishedOn": "2022-04-21T16:18:00.000Z",
+          "wordCount": 2241,
+          "title": "The Future of NFT Trading Cards",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-trading-cards.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=812",
+          "author": "FLOLiO",
+          "description": "If you are ready to make a purchase but need some help first understanding the basics and then knowing how and where to buy DeFi, you’ve come to the right place. We will break down the steps necessary to obtain these new hot commodities on the cryptocurrency exchanges, and explain exactly what is required for [...]",
+          "link": "https://flolio.com/resources/how-to-buy-defi-coin",
+          "publishedOn": "2022-04-20T13:46:00.000Z",
+          "wordCount": 2330,
+          "title": "How to Buy DeFi Coin",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/how-to-buy-difi-coin.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=1075",
+          "author": "Web3 and Me",
+          "description": "Dan and JWeb talk about the crazy launch of Moonbirds NFT, the impact of it on the market, and review the NFTs they bought and sold over the last week.",
+          "link": "https://flolio.com/resources/ep29",
+          "publishedOn": "2022-04-19T17:00:00.000Z",
+          "wordCount": 730,
+          "title": "Moonbirds weekend recap and lookahead | EP #29 | Web3 and Me",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/ep29.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=801",
+          "author": "FLOLiO",
+          "description": "There must have been something in the water at Harvard around the time that Mark Zuckerberg attended. If that name sounds familiar, it should. This CEO and creator of Facebook attended the school in 2002-2004, but he wasn’t alone in creating amazing platforms. At the same time, fellow classmates, the Winklevoss twins, Cameron and Tyler [...]",
+          "link": "https://flolio.com/resources/gemini-exchange",
+          "publishedOn": "2022-04-18T15:37:00.000Z",
+          "wordCount": 2988,
+          "title": "The Gemini Exchange: Ultimate Guide",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/gemini-exchange.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=720",
           "author": "FLOLiO",
           "description": "If you are just getting into the world of cryptocurrency, NFTs, and online investing in this wildly volatile and unpredictable marketplace, chances are you are lost in a mess of alphabet soup. Of course, the online world loves abbreviations. Anything to save some time, right. To help you keep all of these letters and numbers [...]",
