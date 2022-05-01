@@ -144,26 +144,6 @@
           "wordCount": 3757,
           "title": "Ethereum Explained – The Ultimate Guide",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/ethereum-explained.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=679",
-          "author": "FLOLiO",
-          "description": "The Ethereum network has been around for quite some time now and with that comes the inevitable improvements to its token standards. One such improvement is ERC827 which aims at fixing what was seen as one of its biggest shortcomings – executing calls in transfers or approvals easily without any hassle whatsoever! Coins vs. Tokens [...]",
-          "link": "https://flolio.com/resources/erc-827",
-          "publishedOn": "2022-04-01T12:31:00.000Z",
-          "wordCount": 3957,
-          "title": "ERC 827 – The New Token Standard",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/erc-827.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=673",
-          "author": "FLOLiO",
-          "description": "In a vast and ever-changing world of cryptocurrencies, NFTs, and volatile markets, it can be tough to keep it all straight. One of the fun and exciting ventures in the marketplace is crypto collectibles. To better understand this growing phenomenon, let’s take a look at the components that make up the space, the most popular [...]",
-          "link": "https://flolio.com/resources/the-crypto-collectibles-marketplace",
-          "publishedOn": "2022-03-31T17:25:00.000Z",
-          "wordCount": 3167,
-          "title": "The Crypto Collectibles Marketplace",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/crypto-collectibles-marketplace.png"
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-30T01:42:28.782Z</updated>
+    <updated>2022-05-01T01:56:18.747Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -142,26 +142,6 @@
         <link href="https://flolio.com/resources/ethereum-explained"/>
         <updated>2022-04-04T17:25:00.000Z</updated>
         <summary type="html"><![CDATA[The initial use of Ethereum was described with the goal of building decentralized applications in an effort to provide a network that could lead to attaching real-world assets to the blockchain. The idea of Ethereum came about in 2013 primarily by programmer Vitalik Buterin. In 2014, the development work began and it was officially launched [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERC 827 – The New Token Standard]]></title>
-        <id>https://flolio.com/resources/?p=679</id>
-        <link href="https://flolio.com/resources/erc-827"/>
-        <updated>2022-04-01T12:31:00.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum network has been around for quite some time now and with that comes the inevitable improvements to its token standards. One such improvement is ERC827 which aims at fixing what was seen as one of its biggest shortcomings – executing calls in transfers or approvals easily without any hassle whatsoever! Coins vs. Tokens [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Crypto Collectibles Marketplace]]></title>
-        <id>https://flolio.com/resources/?p=673</id>
-        <link href="https://flolio.com/resources/the-crypto-collectibles-marketplace"/>
-        <updated>2022-03-31T17:25:00.000Z</updated>
-        <summary type="html"><![CDATA[In a vast and ever-changing world of cryptocurrencies, NFTs, and volatile markets, it can be tough to keep it all straight. One of the fun and exciting ventures in the marketplace is crypto collectibles. To better understand this growing phenomenon, let’s take a look at the components that make up the space, the most popular [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
