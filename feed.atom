@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-02T01:41:33.296Z</updated>
+    <updated>2022-05-03T01:41:12.964Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CryptoKitties – The Ultimate Guide]]></title>
+        <id>https://flolio.com/resources/?p=842</id>
+        <link href="https://flolio.com/resources/cryptokitties"/>
+        <updated>2022-05-02T12:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Of all the blockchain-based games that have captured the attention of the public over the years, none has done more to advance the adoption of non-fungible tokens than CryptoKitties. At the height of its fame, the game’s popularity was so widespread that it commanded over 25% of all network traffic on the Ethereum platform. Amazingly, [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Crypto Commodity?]]></title>
         <id>https://flolio.com/resources/?p=838</id>
