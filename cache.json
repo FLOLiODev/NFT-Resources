@@ -6,6 +6,16 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=853",
+          "author": "FLOLiO",
+          "description": "Art is a small word that covers a lot of ground. What art is is truly in the eye of the beholder, and, since it is not an objective but subjective topic, there is plenty of room for discussion across the industry. One new era in the artistic world is that of generative art. This [...]",
+          "link": "https://flolio.com/resources/what-is-generative-art",
+          "publishedOn": "2022-05-03T13:16:00.000Z",
+          "wordCount": 3605,
+          "title": "What Is Generative Art?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-generative-art.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=842",
           "author": "FLOLiO",
           "description": "Of all the blockchain-based games that have captured the attention of the public over the years, none has done more to advance the adoption of non-fungible tokens than CryptoKitties. At the height of its fame, the game’s popularity was so widespread that it commanded over 25% of all network traffic on the Ethereum platform. Amazingly, [...]",
