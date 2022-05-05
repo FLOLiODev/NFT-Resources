@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-04T01:37:49.286Z</updated>
+    <updated>2022-05-05T01:26:55.456Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -152,16 +152,6 @@
         <link href="https://flolio.com/resources/how-to-choose-a-safe-nft"/>
         <updated>2022-04-05T18:32:00.000Z</updated>
         <summary type="html"><![CDATA[Non-Fungible Tokens (NFTs) are a new and exciting way to invest in blockchain technology. These digital assets are unique and can represent a variety of different uses. From virtual game items to real estate, the possibilities are endless. As with anything in life, though, safety is tremendously important so it is imperative you know how [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Explained – The Ultimate Guide]]></title>
-        <id>https://flolio.com/resources/?p=683</id>
-        <link href="https://flolio.com/resources/ethereum-explained"/>
-        <updated>2022-04-04T17:25:00.000Z</updated>
-        <summary type="html"><![CDATA[The initial use of Ethereum was described with the goal of building decentralized applications in an effort to provide a network that could lead to attaching real-world assets to the blockchain. The idea of Ethereum came about in 2013 primarily by programmer Vitalik Buterin. In 2014, the development work began and it was officially launched [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
