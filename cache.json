@@ -6,6 +6,36 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=901",
+          "author": "FLOLiO",
+          "description": "One of the most exciting trends in the NFT market today, anime NFTs have risen from a speculative idea in the minds of a few creators into some of the best-selling collections in the NFT community. As of this writing, the floor price for Azuki NFTs, the most successful anime collection to date, sits at [...]",
+          "link": "https://flolio.com/resources/what-is-nft-anime",
+          "publishedOn": "2022-05-05T12:27:00.000Z",
+          "wordCount": 1827,
+          "title": "What is NFT Anime?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-nft-anime.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=1005",
+          "author": "FLOLiO",
+          "description": "We are living in the age of social media where everyone is plugged in and life is lived vicariously through other people’s posted pictures, tweeted topics, and social statuses. Facebook, Twitter, Instagram, YouTube, and Snapchat are famous examples of social media platforms; they’re easy to use, accessible, and free. But in addition to lots of [...]",
+          "link": "https://flolio.com/resources/blockchain-social-media-platforms",
+          "publishedOn": "2022-05-04T15:00:00.000Z",
+          "wordCount": 2728,
+          "title": "Is Decentralized Social Media The Future of Blockchain?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/blockchain-social-media-platforms.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=1155",
+          "author": "Web3 and Me",
+          "description": "Dan and Jweb talk with Chris Hytha, creator of Rowhomes and Highrises to discuss his bike tour around the world, his projects, and anything else that's in the pipelines",
+          "link": "https://flolio.com/resources/chris-hytha",
+          "publishedOn": "2022-05-03T17:00:00.000Z",
+          "wordCount": 693,
+          "title": "Chris Hytha | EP #2 | Web3 and Me 1/1s",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/1of1-2.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=853",
           "author": "FLOLiO",
           "description": "Art is a small word that covers a lot of ground. What art is is truly in the eye of the beholder, and, since it is not an objective but subjective topic, there is plenty of room for discussion across the industry. One new era in the artistic world is that of generative art. This [...]",
@@ -24,6 +54,16 @@
           "wordCount": 2875,
           "title": "CryptoKitties – The Ultimate Guide",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/crypto-kitties.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=1146",
+          "author": "Web3 and Me",
+          "description": "Dan and JWeb talk about more information being released on the Otherside by Yugalabs and speculate about the market movement surrounding the Otherside.",
+          "link": "https://flolio.com/resources/ep32",
+          "publishedOn": "2022-04-29T17:00:00.000Z",
+          "wordCount": 659,
+          "title": "Yuga Labs Otherside preview | EP #32 | Web3 and Me",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/ep32.png"
         },
         {
           "id": "https://flolio.com/resources/?p=838",
@@ -144,16 +184,6 @@
           "wordCount": 3418,
           "title": "How to Purchase Your First NFT as a Complete Beginner?",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-beginner-guide.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=700",
-          "author": "FLOLiO",
-          "description": "Non-Fungible Tokens (NFTs) are a new and exciting way to invest in blockchain technology. These digital assets are unique and can represent a variety of different uses. From virtual game items to real estate, the possibilities are endless. As with anything in life, though, safety is tremendously important so it is imperative you know how [...]",
-          "link": "https://flolio.com/resources/how-to-choose-a-safe-nft",
-          "publishedOn": "2022-04-05T18:32:00.000Z",
-          "wordCount": 2965,
-          "title": "How to Choose a Safe NFT",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/how-to-choose-safe-nft.png"
         }
       ]
     }

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-05T01:26:55.456Z</updated>
+    <updated>2022-05-06T01:18:08.367Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is NFT Anime?]]></title>
+        <id>https://flolio.com/resources/?p=901</id>
+        <link href="https://flolio.com/resources/what-is-nft-anime"/>
+        <updated>2022-05-05T12:27:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the most exciting trends in the NFT market today, anime NFTs have risen from a speculative idea in the minds of a few creators into some of the best-selling collections in the NFT community. As of this writing, the floor price for Azuki NFTs, the most successful anime collection to date, sits at [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Decentralized Social Media The Future of Blockchain?]]></title>
+        <id>https://flolio.com/resources/?p=1005</id>
+        <link href="https://flolio.com/resources/blockchain-social-media-platforms"/>
+        <updated>2022-05-04T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are living in the age of social media where everyone is plugged in and life is lived vicariously through other people’s posted pictures, tweeted topics, and social statuses. Facebook, Twitter, Instagram, YouTube, and Snapchat are famous examples of social media platforms; they’re easy to use, accessible, and free. But in addition to lots of [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chris Hytha | EP #2 | Web3 and Me 1/1s]]></title>
+        <id>https://flolio.com/resources/?p=1155</id>
+        <link href="https://flolio.com/resources/chris-hytha"/>
+        <updated>2022-05-03T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dan and Jweb talk with Chris Hytha, creator of Rowhomes and Highrises to discuss his bike tour around the world, his projects, and anything else that's in the pipelines]]></summary>
+        <author>
+            <name>Web3 and Me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Generative Art?]]></title>
         <id>https://flolio.com/resources/?p=853</id>
@@ -24,6 +54,16 @@
         <summary type="html"><![CDATA[Of all the blockchain-based games that have captured the attention of the public over the years, none has done more to advance the adoption of non-fungible tokens than CryptoKitties. At the height of its fame, the game’s popularity was so widespread that it commanded over 25% of all network traffic on the Ethereum platform. Amazingly, [...]]]></summary>
         <author>
             <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yuga Labs Otherside preview | EP #32 | Web3 and Me]]></title>
+        <id>https://flolio.com/resources/?p=1146</id>
+        <link href="https://flolio.com/resources/ep32"/>
+        <updated>2022-04-29T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dan and JWeb talk about more information being released on the Otherside by Yugalabs and speculate about the market movement surrounding the Otherside.]]></summary>
+        <author>
+            <name>Web3 and Me</name>
         </author>
     </entry>
     <entry>
@@ -142,16 +182,6 @@
         <link href="https://flolio.com/resources/nft-beginner-guide"/>
         <updated>2022-04-07T02:48:00.000Z</updated>
         <summary type="html"><![CDATA[So you want to own an NFT? But are not sure where to begin? We can walk you through a beginner’s guide on how to set up your accounts, purchase your first NFT, and set you on the way to becoming a pro in no time. First, let’s walk through the steps that are required [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose a Safe NFT]]></title>
-        <id>https://flolio.com/resources/?p=700</id>
-        <link href="https://flolio.com/resources/how-to-choose-a-safe-nft"/>
-        <updated>2022-04-05T18:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-Fungible Tokens (NFTs) are a new and exciting way to invest in blockchain technology. These digital assets are unique and can represent a variety of different uses. From virtual game items to real estate, the possibilities are endless. As with anything in life, though, safety is tremendously important so it is imperative you know how [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
