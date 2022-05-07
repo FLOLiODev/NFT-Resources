@@ -6,6 +6,16 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=1131",
+          "author": "FLOLiO",
+          "description": "Isn’t technology a wonderful thing? There are so many complicated computations, unique languages full of fun vocabulary, and detail-oriented advances in an ever-changing landscape that even the best computer scientists can sometimes be confused. To add to the challenges, new concepts are adding to the space at a rapid pace, making it difficult to stay [...]",
+          "link": "https://flolio.com/resources/what-is-a-blockchain-node",
+          "publishedOn": "2022-05-06T14:45:00.000Z",
+          "wordCount": 4238,
+          "title": "What Is a Blockchain Node?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-a-blockchain-node.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=901",
           "author": "FLOLiO",
           "description": "One of the most exciting trends in the NFT market today, anime NFTs have risen from a speculative idea in the minds of a few creators into some of the best-selling collections in the NFT community. As of this writing, the floor price for Azuki NFTs, the most successful anime collection to date, sits at [...]",
@@ -174,16 +184,6 @@
           "wordCount": 2110,
           "title": "What is dApp?",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-dapp.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=692",
-          "author": "FLOLiO",
-          "description": "So you want to own an NFT? But are not sure where to begin? We can walk you through a beginner’s guide on how to set up your accounts, purchase your first NFT, and set you on the way to becoming a pro in no time. First, let’s walk through the steps that are required [...]",
-          "link": "https://flolio.com/resources/nft-beginner-guide",
-          "publishedOn": "2022-04-07T02:48:00.000Z",
-          "wordCount": 3418,
-          "title": "How to Purchase Your First NFT as a Complete Beginner?",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-beginner-guide.png"
         }
       ]
     }

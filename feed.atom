@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-06T01:18:08.367Z</updated>
+    <updated>2022-05-07T01:17:51.233Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is a Blockchain Node?]]></title>
+        <id>https://flolio.com/resources/?p=1131</id>
+        <link href="https://flolio.com/resources/what-is-a-blockchain-node"/>
+        <updated>2022-05-06T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Isn’t technology a wonderful thing? There are so many complicated computations, unique languages full of fun vocabulary, and detail-oriented advances in an ever-changing landscape that even the best computer scientists can sometimes be confused. To add to the challenges, new concepts are adding to the space at a rapid pace, making it difficult to stay [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is NFT Anime?]]></title>
         <id>https://flolio.com/resources/?p=901</id>
@@ -172,16 +182,6 @@
         <link href="https://flolio.com/resources/what-is-dapp"/>
         <updated>2022-04-07T16:15:00.000Z</updated>
         <summary type="html"><![CDATA[If you are just getting into the world of cryptocurrency, NFTs, and online investing in this wildly volatile and unpredictable marketplace, chances are you are lost in a mess of alphabet soup. Of course, the online world loves abbreviations. Anything to save some time, right. To help you keep all of these letters and numbers [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Purchase Your First NFT as a Complete Beginner?]]></title>
-        <id>https://flolio.com/resources/?p=692</id>
-        <link href="https://flolio.com/resources/nft-beginner-guide"/>
-        <updated>2022-04-07T02:48:00.000Z</updated>
-        <summary type="html"><![CDATA[So you want to own an NFT? But are not sure where to begin? We can walk you through a beginner’s guide on how to set up your accounts, purchase your first NFT, and set you on the way to becoming a pro in no time. First, let’s walk through the steps that are required [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
