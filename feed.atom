@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-07T01:17:51.233Z</updated>
+    <updated>2022-05-08T01:24:55.038Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -172,16 +172,6 @@
         <link href="https://flolio.com/resources/gemini-exchange"/>
         <updated>2022-04-18T15:37:00.000Z</updated>
         <summary type="html"><![CDATA[There must have been something in the water at Harvard around the time that Mark Zuckerberg attended. If that name sounds familiar, it should. This CEO and creator of Facebook attended the school in 2002-2004, but he wasn’t alone in creating amazing platforms. At the same time, fellow classmates, the Winklevoss twins, Cameron and Tyler [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is dApp?]]></title>
-        <id>https://flolio.com/resources/?p=720</id>
-        <link href="https://flolio.com/resources/what-is-dapp"/>
-        <updated>2022-04-07T16:15:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are just getting into the world of cryptocurrency, NFTs, and online investing in this wildly volatile and unpredictable marketplace, chances are you are lost in a mess of alphabet soup. Of course, the online world loves abbreviations. Anything to save some time, right. To help you keep all of these letters and numbers [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
