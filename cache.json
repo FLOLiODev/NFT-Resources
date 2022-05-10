@@ -6,6 +6,16 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=865",
+          "author": "FLOLiO",
+          "description": "One of the most popular metaverse games in existence today, Axie Infinity has been described as a “pokémon inspired universe” that has grown from a little-known blockchain platform into an international gaming phenomenon. The Covid-19 pandemic has only accelerated the game’s adoption, with the current version now a household name in the crypto community. Amazingly, [...]",
+          "link": "https://flolio.com/resources/axie-infinity",
+          "publishedOn": "2022-05-09T13:13:00.000Z",
+          "wordCount": 4703,
+          "title": "Axie Infinity: The Ultimate Guide",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/axie-infinity.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=1131",
           "author": "FLOLiO",
           "description": "Isn’t technology a wonderful thing? There are so many complicated computations, unique languages full of fun vocabulary, and detail-oriented advances in an ever-changing landscape that even the best computer scientists can sometimes be confused. To add to the challenges, new concepts are adding to the space at a rapid pace, making it difficult to stay [...]",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-09T01:37:08.327Z</updated>
+    <updated>2022-05-10T01:13:05.828Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Axie Infinity: The Ultimate Guide]]></title>
+        <id>https://flolio.com/resources/?p=865</id>
+        <link href="https://flolio.com/resources/axie-infinity"/>
+        <updated>2022-05-09T13:13:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the most popular metaverse games in existence today, Axie Infinity has been described as a “pokémon inspired universe” that has grown from a little-known blockchain platform into an international gaming phenomenon. The Covid-19 pandemic has only accelerated the game’s adoption, with the current version now a household name in the crypto community. Amazingly, [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is a Blockchain Node?]]></title>
         <id>https://flolio.com/resources/?p=1131</id>
