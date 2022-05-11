@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-10T01:13:05.828Z</updated>
+    <updated>2022-05-11T01:43:56.139Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Web3?]]></title>
+        <id>https://flolio.com/resources/?p=873</id>
+        <link href="https://flolio.com/resources/what-is-web3"/>
+        <updated>2022-05-10T14:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Is the next big thing on the horizon? Or is talk of a “web 3.0” just legend. It is coming. What it will end up becoming is anyone’s guess, but let’s break down the first, basic question about the new phenomenon: what is web3? Before Web 3.0 Web3, or Web 3.0, is what most tech [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Axie Infinity: The Ultimate Guide]]></title>
         <id>https://flolio.com/resources/?p=865</id>
