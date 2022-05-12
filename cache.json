@@ -6,6 +6,26 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=885",
+          "author": "FLOLiO",
+          "description": "Lions, and tigers, and bears, oh my! When it comes to the financial markets, there are plenty of wild terms out there to understand, and we don’t just mean the animals. As with most industries, the world built around the financial institution comes with its own language. To better understand what these creatures mean in [...]",
+          "link": "https://flolio.com/resources/what-is-a-bear-market",
+          "publishedOn": "2022-05-11T19:20:00.000Z",
+          "wordCount": 2965,
+          "title": "What Is a Bear Market?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-a-bear-market.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=877",
+          "author": "FLOLiO",
+          "description": "There is no bull about it. The language of the financial industry can be more than a little confusing. Adding some animals into the mix doesn’t help. To better understand the marketplace overall, it is ideal to comprehend the unique vocabulary used by investors and advisors alike. Let’s dive into the strange “zoo” involved with [...]",
+          "link": "https://flolio.com/resources/what-is-a-bull-market",
+          "publishedOn": "2022-05-11T14:15:00.000Z",
+          "wordCount": 3226,
+          "title": "What Is a Bull Market?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-a-bull-market.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=873",
           "author": "FLOLiO",
           "description": "Is the next big thing on the horizon? Or is talk of a “web 3.0” just legend. It is coming. What it will end up becoming is anyone’s guess, but let’s break down the first, basic question about the new phenomenon: what is web3? Before Web 3.0 Web3, or Web 3.0, is what most tech [...]",

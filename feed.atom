@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-11T01:43:56.139Z</updated>
+    <updated>2022-05-12T01:39:54.583Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is a Bear Market?]]></title>
+        <id>https://flolio.com/resources/?p=885</id>
+        <link href="https://flolio.com/resources/what-is-a-bear-market"/>
+        <updated>2022-05-11T19:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Lions, and tigers, and bears, oh my! When it comes to the financial markets, there are plenty of wild terms out there to understand, and we don’t just mean the animals. As with most industries, the world built around the financial institution comes with its own language. To better understand what these creatures mean in [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is a Bull Market?]]></title>
+        <id>https://flolio.com/resources/?p=877</id>
+        <link href="https://flolio.com/resources/what-is-a-bull-market"/>
+        <updated>2022-05-11T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[There is no bull about it. The language of the financial industry can be more than a little confusing. Adding some animals into the mix doesn’t help. To better understand the marketplace overall, it is ideal to comprehend the unique vocabulary used by investors and advisors alike. Let’s dive into the strange “zoo” involved with [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Web3?]]></title>
         <id>https://flolio.com/resources/?p=873</id>
