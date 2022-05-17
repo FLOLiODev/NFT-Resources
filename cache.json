@@ -6,6 +6,26 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=2643",
+          "author": "Web3 and Me",
+          "description": "In this episode, Dan and Jweb touch on the recent market developments, a bearish cycle, but also about how the market seems to be recovering now that ETH has bottomed out at around $2000, they also answer a question related to undervalued NFT projects.",
+          "link": "https://flolio.com/resources/ep34",
+          "publishedOn": "2022-05-13T17:00:00.000Z",
+          "wordCount": 683,
+          "title": "Market is recovering | EP #34 | Web3 and Me",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/ep34.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=857",
+          "author": "FLOLiO",
+          "description": "The Decentralized Social (DESO) is hitting news headlines at a rapid pace. Announcing recently the expansion to 1.5 million registered users, the new, layer-1 blockchain is said to be “built from the ground up” with a goal to “scale decentralized social applications to 1 billion users.” The numbers seem well on their way, with DESO [...]",
+          "link": "https://flolio.com/resources/what-is-decentralized-social",
+          "publishedOn": "2022-05-12T13:10:00.000Z",
+          "wordCount": 2797,
+          "title": "What Is Decentralized Social?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-decentralized-social.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=885",
           "author": "FLOLiO",
           "description": "Lions, and tigers, and bears, oh my! When it comes to the financial markets, there are plenty of wild terms out there to understand, and we don’t just mean the animals. As with most industries, the world built around the financial institution comes with its own language. To better understand what these creatures mean in [...]",
@@ -26,6 +46,16 @@
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-a-bull-market.png"
         },
         {
+          "id": "https://flolio.com/resources/?p=2637",
+          "author": "Web3 and Me",
+          "description": "Dan and JWeb talk about the current bear cycle and the bleeding markets, but also touch on the recent Azuki news",
+          "link": "https://flolio.com/resources/ep33",
+          "publishedOn": "2022-05-10T17:00:00.000Z",
+          "wordCount": 664,
+          "title": "Remaining calm in the storm | EP #33 | Web3 and Me",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/ep33.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=873",
           "author": "FLOLiO",
           "description": "Is the next big thing on the horizon? Or is talk of a “web 3.0” just legend. It is coming. What it will end up becoming is anyone’s guess, but let’s break down the first, basic question about the new phenomenon: what is web3? Before Web 3.0 Web3, or Web 3.0, is what most tech [...]",
@@ -44,6 +74,16 @@
           "wordCount": 4703,
           "title": "Axie Infinity: The Ultimate Guide",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/axie-infinity.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=2629",
+          "author": "Web3 and Me",
+          "description": "In this episode of Web3 and Me, Dan and Jweb interview Luca Netz to discuss everything around Pudgy Penguins, their past, and what's in store for Pudgy Penguins moving forward",
+          "link": "https://flolio.com/resources/luca-netz",
+          "publishedOn": "2022-05-06T17:00:00.000Z",
+          "wordCount": 670,
+          "title": "Luca Netz | EP #3 | Web3 and Me 1/1s",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/1of1-3.png"
         },
         {
           "id": "https://flolio.com/resources/?p=1131",
