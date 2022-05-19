@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-18T01:17:36.929Z</updated>
+    <updated>2022-05-19T01:43:46.318Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Investing in NEO Cryptocurrency]]></title>
+        <id>https://flolio.com/resources/?p=918</id>
+        <link href="https://flolio.com/resources/investing-in-neo-cryptocurrency"/>
+        <updated>2022-05-18T14:36:00.000Z</updated>
+        <summary type="html"><![CDATA[The wild and ever-changing world of cryptocurrency comes with it its fair share of confusion. It isn’t always easy to keep track of the latest trends, new products, and marketplaces popping up constantly. To better understand one unique type of crypto, we will take a dive into NEO to better understand the NEO blockchain, NEO [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Thrive in a Bear Market | EP #35 | Web3 and Me]]></title>
+        <id>https://flolio.com/resources/?p=2870</id>
+        <link href="https://flolio.com/resources/ep-35"/>
+        <updated>2022-05-17T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, Dan and Jweb are talking about how to survive and thrive in a bearish market cycle.]]></summary>
+        <author>
+            <name>Web3 and Me</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Do NFT Auctions Work?]]></title>
         <id>https://flolio.com/resources/?p=910</id>
@@ -274,16 +294,6 @@
         <summary type="html"><![CDATA[Dan and JWeb talk about the crazy launch of Moonbirds NFT, the impact of it on the market, and review the NFTs they bought and sold over the last week.]]></summary>
         <author>
             <name>Web3 and Me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Gemini Exchange: Ultimate Guide]]></title>
-        <id>https://flolio.com/resources/?p=801</id>
-        <link href="https://flolio.com/resources/gemini-exchange"/>
-        <updated>2022-04-18T15:37:00.000Z</updated>
-        <summary type="html"><![CDATA[There must have been something in the water at Harvard around the time that Mark Zuckerberg attended. If that name sounds familiar, it should. This CEO and creator of Facebook attended the school in 2002-2004, but he wasn’t alone in creating amazing platforms. At the same time, fellow classmates, the Winklevoss twins, Cameron and Tyler [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
         </author>
     </entry>
 </feed>
