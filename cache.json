@@ -6,6 +6,16 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=922",
+          "author": "FLOLiO",
+          "description": "Have you been on Twitter or even a Discord or maybe amid a conversation involving crypto and found yourself confused by some of the terminology being thrown around? You’re not alone. As a noob or even a vet, navigating this space is ever-evolving and new terms pop up consistently. To make it in the world [...]",
+          "link": "https://flolio.com/resources/crypto-definitions",
+          "publishedOn": "2022-05-19T13:31:00.000Z",
+          "wordCount": 3999,
+          "title": "101 Everyday Crypto Terms Explained",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/crypto-definitions.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=918",
           "author": "FLOLiO",
           "description": "The wild and ever-changing world of cryptocurrency comes with it its fair share of confusion. It isn’t always easy to keep track of the latest trends, new products, and marketplaces popping up constantly. To better understand one unique type of crypto, we will take a dive into NEO to better understand the NEO blockchain, NEO [...]",
@@ -284,16 +294,6 @@
           "wordCount": 2330,
           "title": "How to Buy DeFi Coin",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/how-to-buy-difi-coin.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=1075",
-          "author": "Web3 and Me",
-          "description": "Dan and JWeb talk about the crazy launch of Moonbirds NFT, the impact of it on the market, and review the NFTs they bought and sold over the last week.",
-          "link": "https://flolio.com/resources/ep29",
-          "publishedOn": "2022-04-19T17:00:00.000Z",
-          "wordCount": 730,
-          "title": "Moonbirds weekend recap and lookahead | EP #29 | Web3 and Me",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/ep29.png"
         }
       ]
     }

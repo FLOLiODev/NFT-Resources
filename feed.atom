@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-19T01:43:46.318Z</updated>
+    <updated>2022-05-20T01:27:33.167Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[101 Everyday Crypto Terms Explained]]></title>
+        <id>https://flolio.com/resources/?p=922</id>
+        <link href="https://flolio.com/resources/crypto-definitions"/>
+        <updated>2022-05-19T13:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you been on Twitter or even a Discord or maybe amid a conversation involving crypto and found yourself confused by some of the terminology being thrown around? You’re not alone. As a noob or even a vet, navigating this space is ever-evolving and new terms pop up consistently. To make it in the world [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Investing in NEO Cryptocurrency]]></title>
         <id>https://flolio.com/resources/?p=918</id>
@@ -284,16 +294,6 @@
         <summary type="html"><![CDATA[If you are ready to make a purchase but need some help first understanding the basics and then knowing how and where to buy DeFi, you’ve come to the right place. We will break down the steps necessary to obtain these new hot commodities on the cryptocurrency exchanges, and explain exactly what is required for [...]]]></summary>
         <author>
             <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonbirds weekend recap and lookahead | EP #29 | Web3 and Me]]></title>
-        <id>https://flolio.com/resources/?p=1075</id>
-        <link href="https://flolio.com/resources/ep29"/>
-        <updated>2022-04-19T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dan and JWeb talk about the crazy launch of Moonbirds NFT, the impact of it on the market, and review the NFTs they bought and sold over the last week.]]></summary>
-        <author>
-            <name>Web3 and Me</name>
         </author>
     </entry>
 </feed>
