@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-20T01:27:33.167Z</updated>
+    <updated>2022-05-21T01:11:36.416Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Calm before the storm | EP #36 | Web3 and Me]]></title>
+        <id>https://flolio.com/resources/?p=2887</id>
+        <link href="https://flolio.com/resources/ep36"/>
+        <updated>2022-05-20T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, Dan and Jweb are talking about the recovering NFT market and what's ahead going into next week]]></summary>
+        <author>
+            <name>Web3 and Me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is a DEX?]]></title>
+        <id>https://flolio.com/resources/?p=926</id>
+        <link href="https://flolio.com/resources/what-is-dex"/>
+        <updated>2022-05-20T12:52:00.000Z</updated>
+        <summary type="html"><![CDATA[The wonderful and often wild world of crypto exchanges can get somewhat confusing when it comes to vocabulary. It seems the industry has opted to make up an entire vernacular all of its own, borrowing some words and phrases from the traditional investment environment, and making up new ones for the space along the way. [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[101 Everyday Crypto Terms Explained]]></title>
         <id>https://flolio.com/resources/?p=922</id>
@@ -282,16 +302,6 @@
         <link href="https://flolio.com/resources/nft-trading-cards"/>
         <updated>2022-04-21T16:18:00.000Z</updated>
         <summary type="html"><![CDATA[The creation of the first NFT in 2014 ushered in a new era in digital technology that has altered the way the public interacts with digital assets. Since that time, the nature of non-fungible tokens has also changed, shifting from an item meant to display digital art to a new medium where fans, artists, and [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Buy DeFi Coin]]></title>
-        <id>https://flolio.com/resources/?p=812</id>
-        <link href="https://flolio.com/resources/how-to-buy-defi-coin"/>
-        <updated>2022-04-20T13:46:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are ready to make a purchase but need some help first understanding the basics and then knowing how and where to buy DeFi, you’ve come to the right place. We will break down the steps necessary to obtain these new hot commodities on the cryptocurrency exchanges, and explain exactly what is required for [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>

@@ -6,6 +6,26 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=2887",
+          "author": "Web3 and Me",
+          "description": "In this episode, Dan and Jweb are talking about the recovering NFT market and what's ahead going into next week",
+          "link": "https://flolio.com/resources/ep36",
+          "publishedOn": "2022-05-20T17:00:00.000Z",
+          "wordCount": 664,
+          "title": "Calm before the storm | EP #36 | Web3 and Me",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/ep36.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=926",
+          "author": "FLOLiO",
+          "description": "The wonderful and often wild world of crypto exchanges can get somewhat confusing when it comes to vocabulary. It seems the industry has opted to make up an entire vernacular all of its own, borrowing some words and phrases from the traditional investment environment, and making up new ones for the space along the way. [...]",
+          "link": "https://flolio.com/resources/what-is-dex",
+          "publishedOn": "2022-05-20T12:52:00.000Z",
+          "wordCount": 2991,
+          "title": "What Is a DEX?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-dex.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=922",
           "author": "FLOLiO",
           "description": "Have you been on Twitter or even a Discord or maybe amid a conversation involving crypto and found yourself confused by some of the terminology being thrown around? You’re not alone. As a noob or even a vet, navigating this space is ever-evolving and new terms pop up consistently. To make it in the world [...]",
@@ -284,16 +304,6 @@
           "wordCount": 2241,
           "title": "The Future of NFT Trading Cards",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-trading-cards.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=812",
-          "author": "FLOLiO",
-          "description": "If you are ready to make a purchase but need some help first understanding the basics and then knowing how and where to buy DeFi, you’ve come to the right place. We will break down the steps necessary to obtain these new hot commodities on the cryptocurrency exchanges, and explain exactly what is required for [...]",
-          "link": "https://flolio.com/resources/how-to-buy-defi-coin",
-          "publishedOn": "2022-04-20T13:46:00.000Z",
-          "wordCount": 2330,
-          "title": "How to Buy DeFi Coin",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/how-to-buy-difi-coin.png"
         }
       ]
     }
