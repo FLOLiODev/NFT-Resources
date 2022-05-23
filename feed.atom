@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-22T01:23:56.088Z</updated>
+    <updated>2022-05-23T01:22:14.016Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -284,16 +284,6 @@
         <summary type="html"><![CDATA[Technology is an ever-changing world of new and exciting advancements. Even things that have long been a staple in society, like the world wide web, can adapt and update. Since its inception, the web has changed in many ways. The best part of technology is there is always room for that growth. It is the [...]]]></summary>
         <author>
             <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Akutars, Coinbase NFT and Weekly recap | EP #30 | Web3 and Me]]></title>
-        <id>https://flolio.com/resources/?p=1082</id>
-        <link href="https://flolio.com/resources/ep30"/>
-        <updated>2022-04-22T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, Dan and JWeb talk about Akutars, the launch of Coinbase NFT, and cover their weekly recap of the NFT market.]]></summary>
-        <author>
-            <name>Web3 and Me</name>
         </author>
     </entry>
 </feed>
