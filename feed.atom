@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-24T01:40:45.089Z</updated>
+    <updated>2022-05-25T01:40:23.532Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -274,16 +274,6 @@
         <summary type="html"><![CDATA[In this episode, Dan and JWeb discuss more information dropped on Otherside Land, the reveal of the MNLTH and the second roadmap dropped by Llamaverse.]]></summary>
         <author>
             <name>Web3 and Me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WEB2 vs WEB3]]></title>
-        <id>https://flolio.com/resources/?p=821</id>
-        <link href="https://flolio.com/resources/web2-vs-web3"/>
-        <updated>2022-04-25T13:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Technology is an ever-changing world of new and exciting advancements. Even things that have long been a staple in society, like the world wide web, can adapt and update. Since its inception, the web has changed in many ways. The best part of technology is there is always room for that growth. It is the [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
         </author>
     </entry>
 </feed>
