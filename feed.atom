@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-27T01:25:47.902Z</updated>
+    <updated>2022-05-28T01:25:45.496Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -242,26 +242,6 @@
         <link href="https://flolio.com/resources/what-is-crypto-commodity"/>
         <updated>2022-04-29T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[As you become entangled in the wide world of cryptocurrency exchanges, it can be a confusing space. There are many terms from the traditional investing arena that crossover, though may have different meanings. A cryptocurrency, also abbreviated often as just “crypto” for short, is a digital asset. It can be a representation of a real-world [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build dApps: A Comprehensive Guide to Decentralized Applications]]></title>
-        <id>https://flolio.com/resources/?p=833</id>
-        <link href="https://flolio.com/resources/building-dapps"/>
-        <updated>2022-04-28T12:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized applications (dApps) are the next step in blockchain technology. They are web applications that allow developers to create a full-featured app on the blockchain instead of just leveraging the functionality of smart contracts or tokens. In this post, we’ll explore how to build a dApp on the Ethereum network and what it means for [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best DeFi Tools to Optimize Your Crypto Experience]]></title>
-        <id>https://flolio.com/resources/?p=825</id>
-        <link href="https://flolio.com/resources/best-defi-tools"/>
-        <updated>2022-04-27T13:54:00.000Z</updated>
-        <summary type="html"><![CDATA[When you’re investing in the cryptocurrency space, there’s a lot of unpredictability and uncertainty. With so many DeFi projects available, narrowing down which one is right for you may be difficult; the right tools will make your job easier. DeFi tools will help you analyze the DeFi ecosystem and find new opportunities to grow your [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
