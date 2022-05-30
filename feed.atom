@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-29T01:42:37.432Z</updated>
+    <updated>2022-05-30T01:39:10.126Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -222,26 +222,6 @@
         <link href="https://flolio.com/resources/cryptokitties"/>
         <updated>2022-05-02T12:47:00.000Z</updated>
         <summary type="html"><![CDATA[Of all the blockchain-based games that have captured the attention of the public over the years, none has done more to advance the adoption of non-fungible tokens than CryptoKitties. At the height of its fame, the game’s popularity was so widespread that it commanded over 25% of all network traffic on the Ethereum platform. Amazingly, [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yuga Labs Otherside preview | EP #32 | Web3 and Me]]></title>
-        <id>https://flolio.com/resources/?p=1146</id>
-        <link href="https://flolio.com/resources/ep32"/>
-        <updated>2022-04-29T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dan and JWeb talk about more information being released on the Otherside by Yugalabs and speculate about the market movement surrounding the Otherside.]]></summary>
-        <author>
-            <name>Web3 and Me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Crypto Commodity?]]></title>
-        <id>https://flolio.com/resources/?p=838</id>
-        <link href="https://flolio.com/resources/what-is-crypto-commodity"/>
-        <updated>2022-04-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As you become entangled in the wide world of cryptocurrency exchanges, it can be a confusing space. There are many terms from the traditional investing arena that crossover, though may have different meanings. A cryptocurrency, also abbreviated often as just “crypto” for short, is a digital asset. It can be a representation of a real-world [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
