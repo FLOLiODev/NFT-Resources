@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-31T01:39:26.491Z</updated>
+    <updated>2022-06-01T01:52:26.764Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -212,16 +212,6 @@
         <link href="https://flolio.com/resources/what-is-generative-art"/>
         <updated>2022-05-03T13:16:00.000Z</updated>
         <summary type="html"><![CDATA[Art is a small word that covers a lot of ground. What art is is truly in the eye of the beholder, and, since it is not an objective but subjective topic, there is plenty of room for discussion across the industry. One new era in the artistic world is that of generative art. This [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CryptoKitties – The Ultimate Guide]]></title>
-        <id>https://flolio.com/resources/?p=842</id>
-        <link href="https://flolio.com/resources/cryptokitties"/>
-        <updated>2022-05-02T12:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Of all the blockchain-based games that have captured the attention of the public over the years, none has done more to advance the adoption of non-fungible tokens than CryptoKitties. At the height of its fame, the game’s popularity was so widespread that it commanded over 25% of all network traffic on the Ethereum platform. Amazingly, [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
