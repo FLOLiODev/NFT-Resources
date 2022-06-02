@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-01T01:52:26.764Z</updated>
+    <updated>2022-06-02T01:42:54.718Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -204,16 +204,6 @@
         <summary type="html"><![CDATA[Dan and Jweb talk with Chris Hytha, creator of Rowhomes and Highrises to discuss his bike tour around the world, his projects, and anything else that's in the pipelines]]></summary>
         <author>
             <name>Web3 and Me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Generative Art?]]></title>
-        <id>https://flolio.com/resources/?p=853</id>
-        <link href="https://flolio.com/resources/what-is-generative-art"/>
-        <updated>2022-05-03T13:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Art is a small word that covers a lot of ground. What art is is truly in the eye of the beholder, and, since it is not an objective but subjective topic, there is plenty of room for discussion across the industry. One new era in the artistic world is that of generative art. This [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
         </author>
     </entry>
 </feed>
