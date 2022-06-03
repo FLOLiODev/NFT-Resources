@@ -6,6 +6,76 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=2982",
+          "author": "Web3 and Me",
+          "description": "On today's show, JWeb gives his list of 10 lessons that he has learned over the last year trading NFTs. He'll discuss some of his wins and losses, and how he has improved as an NFT trader.",
+          "link": "https://flolio.com/resources/ep39",
+          "publishedOn": "2022-05-31T17:00:00.000Z",
+          "wordCount": 756,
+          "title": "10 Lessons From a Year of NFT Trading | EP #39 | Web3 and Me",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/ep39.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=2977",
+          "author": "Web3 and Me",
+          "description": "Jeremy is joined by special guest Nate to recap the last week in the NFT market including the incredible run that Goblintown has been on as well as new projects Boki and AInightbirds.",
+          "link": "https://flolio.com/resources/ep38",
+          "publishedOn": "2022-05-27T17:00:00.000Z",
+          "wordCount": 763,
+          "title": "Heading to Goblintown with Nate Digital | EP #38 | Web3 and Me",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/ep38.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=889",
+          "author": "FLOLiO",
+          "description": "If you are no stranger to Web3 then you are familiar with the language of acronyms. Those most commonly thrown around would be NFT (Non-Fungible Token), ETH (Ethereum), and the focus of this write-up, DAO (Decentralized autonomous organization) which are currently being incorporated into many blockchain projects within the decentralized finance (DeFi) landscape. Simply using [...]",
+          "link": "https://flolio.com/resources/decentralized-autonomous-organizations",
+          "publishedOn": "2022-05-26T15:22:00.000Z",
+          "wordCount": 2508,
+          "title": "What is a Decentralized Autonomous Organization?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/decentralized-autonomous-organizations.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=897",
+          "author": "FLOLiO",
+          "description": "The way we live and do business is changing faster than ever before. Blockchain has led the charge in disrupting our normal technological routines from financial services to how we distribute our food supply.  From cryptocurrencies revolutionizing payments to initial coin offerings challenging stock investing, it’s no surprise that this technology has made its way [...]",
+          "link": "https://flolio.com/resources/real-estate-on-blockchain",
+          "publishedOn": "2022-05-25T14:26:00.000Z",
+          "wordCount": 1906,
+          "title": "Real Estate on Blockchain",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/real-estate-on-blockchain.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=2972",
+          "author": "Web3 and Me",
+          "description": "Dan and Jeremy recap the weekend action in the NFT market, including the Goblin Town free mint, Chimpers reveal, and Rekt Guy by OSF",
+          "link": "https://flolio.com/resources/ep37",
+          "publishedOn": "2022-05-24T17:00:00.000Z",
+          "wordCount": 767,
+          "title": "Building Our Ideal NFT Portfolios | EP #37 | Web3 and Me",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/ep37.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=914",
+          "author": "FLOLiO",
+          "description": "The video game industry has become increasingly popular over the last few years. It is now one of the most lucrative industries in the world and with the introduction of the blockchain, there are a lot of different ways to use it in the gaming industry expanding the hype of game features. Many companies have [...]",
+          "link": "https://flolio.com/resources/popular-nft-games",
+          "publishedOn": "2022-05-24T15:34:00.000Z",
+          "wordCount": 4223,
+          "title": "Top 5 Most Popular NFT Games in 2022",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/popular-nft-games.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=850",
+          "author": "FLOLiO",
+          "description": "Blockchain technology is rapidly increasing in popularity. However, many people seem to be confused about what investing in blockchain means. Is buying cryptocurrency enough? Or should we focus on direct investment in companies developing blockchain technology? Ultimately, blockchain investors fall into one of two categories; investing in crypto stocks or publicly traded companies. The market [...]",
+          "link": "https://flolio.com/resources/how-to-invest-in-blockchain",
+          "publishedOn": "2022-05-23T13:06:00.000Z",
+          "wordCount": 4772,
+          "title": "How to Invest in Blockchain",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/how-to-invest-in-blockchain.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=2887",
           "author": "Web3 and Me",
           "description": "In this episode, Dan and Jweb are talking about the recovering NFT market and what's ahead going into next week",
@@ -24,6 +94,16 @@
           "wordCount": 2991,
           "title": "What Is a DEX?",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-dex.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=930",
+          "author": "FLOLiO",
+          "description": "In January of 2022, the Mutant Ape Yacht Club made headlines when its rare Serum #69 sold for a whopping 1,542.06 ETH ($5.8 million at the time), making it the largest sale of a Bored Ape “serum” to date.  The serum was bought by Deepak Thapliyal, CEO of the blockchain tech startup Chain, who had [...]",
+          "link": "https://flolio.com/resources/what-is-mutant-ape-yacht-club",
+          "publishedOn": "2022-05-20T12:13:00.000Z",
+          "wordCount": 1311,
+          "title": "What is Mutant Ape Yacht Club",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-mutant-ape-yacht-club.png"
         },
         {
           "id": "https://flolio.com/resources/?p=922",
@@ -194,16 +274,6 @@
           "wordCount": 2728,
           "title": "Is Decentralized Social Media The Future of Blockchain?",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/blockchain-social-media-platforms.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=1155",
-          "author": "Web3 and Me",
-          "description": "Dan and Jweb talk with Chris Hytha, creator of Rowhomes and Highrises to discuss his bike tour around the world, his projects, and anything else that's in the pipelines",
-          "link": "https://flolio.com/resources/chris-hytha",
-          "publishedOn": "2022-05-03T17:00:00.000Z",
-          "wordCount": 693,
-          "title": "Chris Hytha | EP #2 | Web3 and Me 1/1s",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/1of1-2.png"
         }
       ]
     }

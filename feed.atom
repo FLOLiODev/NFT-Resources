@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-02T01:42:54.718Z</updated>
+    <updated>2022-06-03T01:19:41.608Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 Lessons From a Year of NFT Trading | EP #39 | Web3 and Me]]></title>
+        <id>https://flolio.com/resources/?p=2982</id>
+        <link href="https://flolio.com/resources/ep39"/>
+        <updated>2022-05-31T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On today's show, JWeb gives his list of 10 lessons that he has learned over the last year trading NFTs. He'll discuss some of his wins and losses, and how he has improved as an NFT trader.]]></summary>
+        <author>
+            <name>Web3 and Me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heading to Goblintown with Nate Digital | EP #38 | Web3 and Me]]></title>
+        <id>https://flolio.com/resources/?p=2977</id>
+        <link href="https://flolio.com/resources/ep38"/>
+        <updated>2022-05-27T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jeremy is joined by special guest Nate to recap the last week in the NFT market including the incredible run that Goblintown has been on as well as new projects Boki and AInightbirds.]]></summary>
+        <author>
+            <name>Web3 and Me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Decentralized Autonomous Organization?]]></title>
+        <id>https://flolio.com/resources/?p=889</id>
+        <link href="https://flolio.com/resources/decentralized-autonomous-organizations"/>
+        <updated>2022-05-26T15:22:00.000Z</updated>
+        <summary type="html"><![CDATA[If you are no stranger to Web3 then you are familiar with the language of acronyms. Those most commonly thrown around would be NFT (Non-Fungible Token), ETH (Ethereum), and the focus of this write-up, DAO (Decentralized autonomous organization) which are currently being incorporated into many blockchain projects within the decentralized finance (DeFi) landscape. Simply using [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real Estate on Blockchain]]></title>
+        <id>https://flolio.com/resources/?p=897</id>
+        <link href="https://flolio.com/resources/real-estate-on-blockchain"/>
+        <updated>2022-05-25T14:26:00.000Z</updated>
+        <summary type="html"><![CDATA[The way we live and do business is changing faster than ever before. Blockchain has led the charge in disrupting our normal technological routines from financial services to how we distribute our food supply.  From cryptocurrencies revolutionizing payments to initial coin offerings challenging stock investing, it’s no surprise that this technology has made its way [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Our Ideal NFT Portfolios | EP #37 | Web3 and Me]]></title>
+        <id>https://flolio.com/resources/?p=2972</id>
+        <link href="https://flolio.com/resources/ep37"/>
+        <updated>2022-05-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dan and Jeremy recap the weekend action in the NFT market, including the Goblin Town free mint, Chimpers reveal, and Rekt Guy by OSF]]></summary>
+        <author>
+            <name>Web3 and Me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Most Popular NFT Games in 2022]]></title>
+        <id>https://flolio.com/resources/?p=914</id>
+        <link href="https://flolio.com/resources/popular-nft-games"/>
+        <updated>2022-05-24T15:34:00.000Z</updated>
+        <summary type="html"><![CDATA[The video game industry has become increasingly popular over the last few years. It is now one of the most lucrative industries in the world and with the introduction of the blockchain, there are a lot of different ways to use it in the gaming industry expanding the hype of game features. Many companies have [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Invest in Blockchain]]></title>
+        <id>https://flolio.com/resources/?p=850</id>
+        <link href="https://flolio.com/resources/how-to-invest-in-blockchain"/>
+        <updated>2022-05-23T13:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain technology is rapidly increasing in popularity. However, many people seem to be confused about what investing in blockchain means. Is buying cryptocurrency enough? Or should we focus on direct investment in companies developing blockchain technology? Ultimately, blockchain investors fall into one of two categories; investing in crypto stocks or publicly traded companies. The market [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Calm before the storm | EP #36 | Web3 and Me]]></title>
         <id>https://flolio.com/resources/?p=2887</id>
@@ -22,6 +92,16 @@
         <link href="https://flolio.com/resources/what-is-dex"/>
         <updated>2022-05-20T12:52:00.000Z</updated>
         <summary type="html"><![CDATA[The wonderful and often wild world of crypto exchanges can get somewhat confusing when it comes to vocabulary. It seems the industry has opted to make up an entire vernacular all of its own, borrowing some words and phrases from the traditional investment environment, and making up new ones for the space along the way. [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Mutant Ape Yacht Club]]></title>
+        <id>https://flolio.com/resources/?p=930</id>
+        <link href="https://flolio.com/resources/what-is-mutant-ape-yacht-club"/>
+        <updated>2022-05-20T12:13:00.000Z</updated>
+        <summary type="html"><![CDATA[In January of 2022, the Mutant Ape Yacht Club made headlines when its rare Serum #69 sold for a whopping 1,542.06 ETH ($5.8 million at the time), making it the largest sale of a Bored Ape “serum” to date.  The serum was bought by Deepak Thapliyal, CEO of the blockchain tech startup Chain, who had [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
@@ -194,16 +274,6 @@
         <summary type="html"><![CDATA[We are living in the age of social media where everyone is plugged in and life is lived vicariously through other people’s posted pictures, tweeted topics, and social statuses. Facebook, Twitter, Instagram, YouTube, and Snapchat are famous examples of social media platforms; they’re easy to use, accessible, and free. But in addition to lots of [...]]]></summary>
         <author>
             <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Hytha | EP #2 | Web3 and Me 1/1s]]></title>
-        <id>https://flolio.com/resources/?p=1155</id>
-        <link href="https://flolio.com/resources/chris-hytha"/>
-        <updated>2022-05-03T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dan and Jweb talk with Chris Hytha, creator of Rowhomes and Highrises to discuss his bike tour around the world, his projects, and anything else that's in the pipelines]]></summary>
-        <author>
-            <name>Web3 and Me</name>
         </author>
     </entry>
 </feed>
