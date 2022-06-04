@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T01:19:41.608Z</updated>
+    <updated>2022-06-04T01:18:48.074Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -252,26 +252,6 @@
         <link href="https://flolio.com/resources/what-is-a-blockchain-node"/>
         <updated>2022-05-06T14:45:00.000Z</updated>
         <summary type="html"><![CDATA[Isn’t technology a wonderful thing? There are so many complicated computations, unique languages full of fun vocabulary, and detail-oriented advances in an ever-changing landscape that even the best computer scientists can sometimes be confused. To add to the challenges, new concepts are adding to the space at a rapid pace, making it difficult to stay [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is NFT Anime?]]></title>
-        <id>https://flolio.com/resources/?p=901</id>
-        <link href="https://flolio.com/resources/what-is-nft-anime"/>
-        <updated>2022-05-05T12:27:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the most exciting trends in the NFT market today, anime NFTs have risen from a speculative idea in the minds of a few creators into some of the best-selling collections in the NFT community. As of this writing, the floor price for Azuki NFTs, the most successful anime collection to date, sits at [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Decentralized Social Media The Future of Blockchain?]]></title>
-        <id>https://flolio.com/resources/?p=1005</id>
-        <link href="https://flolio.com/resources/blockchain-social-media-platforms"/>
-        <updated>2022-05-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are living in the age of social media where everyone is plugged in and life is lived vicariously through other people’s posted pictures, tweeted topics, and social statuses. Facebook, Twitter, Instagram, YouTube, and Snapchat are famous examples of social media platforms; they’re easy to use, accessible, and free. But in addition to lots of [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
