@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-05T01:39:22.513Z</updated>
+    <updated>2022-06-06T01:27:46.686Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -232,26 +232,6 @@
         <link href="https://flolio.com/resources/axie-infinity"/>
         <updated>2022-05-09T13:13:00.000Z</updated>
         <summary type="html"><![CDATA[One of the most popular metaverse games in existence today, Axie Infinity has been described as a “pokémon inspired universe” that has grown from a little-known blockchain platform into an international gaming phenomenon. The Covid-19 pandemic has only accelerated the game’s adoption, with the current version now a household name in the crypto community. Amazingly, [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luca Netz | EP #3 | Web3 and Me 1/1s]]></title>
-        <id>https://flolio.com/resources/?p=2629</id>
-        <link href="https://flolio.com/resources/luca-netz"/>
-        <updated>2022-05-06T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of Web3 and Me, Dan and Jweb interview Luca Netz to discuss everything around Pudgy Penguins, their past, and what's in store for Pudgy Penguins moving forward]]></summary>
-        <author>
-            <name>Web3 and Me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is a Blockchain Node?]]></title>
-        <id>https://flolio.com/resources/?p=1131</id>
-        <link href="https://flolio.com/resources/what-is-a-blockchain-node"/>
-        <updated>2022-05-06T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Isn’t technology a wonderful thing? There are so many complicated computations, unique languages full of fun vocabulary, and detail-oriented advances in an ever-changing landscape that even the best computer scientists can sometimes be confused. To add to the challenges, new concepts are adding to the space at a rapid pace, making it difficult to stay [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
