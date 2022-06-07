@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-06T01:27:46.686Z</updated>
+    <updated>2022-06-07T01:22:10.955Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best NFT Tracking Tools]]></title>
+        <id>https://flolio.com/resources/?p=1277</id>
+        <link href="https://flolio.com/resources/nft-tracking-tools"/>
+        <updated>2022-06-06T13:57:00.000Z</updated>
+        <summary type="html"><![CDATA[The NFT market has been exploding since NFTs became the most exciting innovation in the crypto space in 2019. An NFT is a digital asset that can represent anything from a collectible to a tradeable asset like trading cards or generative art. NFT investors who are looking to make a profit or simply add to [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is the NFT market getting ready to run?  | EP #40 | Web3 and Me]]></title>
+        <id>https://flolio.com/resources/?p=3088</id>
+        <link href="https://flolio.com/resources/ep40"/>
+        <updated>2022-06-03T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, Jeremy is joined by Kevin Shannon to recap what has happened this week in the NFT market. They'll also break down whether we're on the verge of the next bull run or a sustained bear market.]]></summary>
+        <author>
+            <name>Web3 and Me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Alternative Cryptocurrencies To Bitcoin]]></title>
+        <id>https://flolio.com/resources/?p=1001</id>
+        <link href="https://flolio.com/resources/alternative-cryptocurrencies"/>
+        <updated>2022-06-03T13:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Cryptocurrencies are currently more popular than ever and as the first cryptocurrency, Bitcoin has created a movement as the forerunner to the rest. However, there are plenty of other digital assets that have been created since the release of Bitcoin that is inching further into the curiosity of investors and becoming valuable cryptocurrency by making [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does a Peer to Peer Network Work?]]></title>
+        <id>https://flolio.com/resources/?p=947</id>
+        <link href="https://flolio.com/resources/peer-to-peer-network"/>
+        <updated>2022-06-02T15:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The term “peer-to-peer” means one-on-one — and it’s perfectly suited to the computing world. In a peer-to-peer network, each node is both a client and a server. There is no top-down hierarchy where nodes are clients and servers; instead, each node is an autonomous agent that responds to centralized requests. The peer-to-peer network is one [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Ethereum 2.0?]]></title>
+        <id>https://flolio.com/resources/?p=881</id>
+        <link href="https://flolio.com/resources/what-is-ethereum-2"/>
+        <updated>2022-06-01T14:19:00.000Z</updated>
+        <summary type="html"><![CDATA[What is Ethereum 2.0? How will it differ from the current Ethereum protocol? These are a few questions being asked as the development of Ethereum 2.0 gains momentum. and the community eagerly awaits the launch of the new and improved network. The Ethereum Foundation has been working on Ethereum 2.0 as the first upgrade to [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Lessons From a Year of NFT Trading | EP #39 | Web3 and Me]]></title>
         <id>https://flolio.com/resources/?p=2982</id>
@@ -14,6 +64,26 @@
         <summary type="html"><![CDATA[On today's show, JWeb gives his list of 10 lessons that he has learned over the last year trading NFTs. He'll discuss some of his wins and losses, and how he has improved as an NFT trader.]]></summary>
         <author>
             <name>Web3 and Me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best NFT Tokens to Buy in May 2022]]></title>
+        <id>https://flolio.com/resources/?p=2881</id>
+        <link href="https://flolio.com/resources/best-nft-tokens"/>
+        <updated>2022-05-31T13:29:00.000Z</updated>
+        <summary type="html"><![CDATA[In the world of digital assets, non-fungible tokens (NFTs) are becoming increasingly popular. Unlike fungible assets which can be easily swapped or transferred, NFTs are unique and cannot be replaced. NFTs are often compared to collectibles, as they are one-of-a-kind digital assets that have no physical form. However, NFTs can be purchased and traded just [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized Insurance – DeFi Protection]]></title>
+        <id>https://flolio.com/resources/?p=869</id>
+        <link href="https://flolio.com/resources/defi-insurance"/>
+        <updated>2022-05-30T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[In the simplest terms, DeFi is short for Decentralized Finance. It’s a catch-all term for various financial protocols and platforms that run on Ethereum. From lending and borrowing platforms to stablecoins and tokenized BTC, there’s a wide variety of DeFi applications available today and because they’re running on Ethereum, they’re accessible to anyone with an [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
         </author>
     </entry>
     <entry>
