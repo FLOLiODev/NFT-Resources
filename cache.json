@@ -6,6 +6,16 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=1009",
+          "author": "FLOLiO",
+          "description": "The Internet is a wild west of change. From new technologies to greater access for all, there is always something new and exciting in the industry. One of the few remaining spaces for true advancement and groundbreaking invention, the world wide web offers a plethora of opportunities and interests. One of the newer developing trends [...]",
+          "link": "https://flolio.com/resources/decentralized-web-hosting",
+          "publishedOn": "2022-06-07T13:26:00.000Z",
+          "wordCount": 3009,
+          "title": "What Is Decentralized Web Hosting?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/decentralized-web-hosting.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=1277",
           "author": "FLOLiO",
           "description": "The NFT market has been exploding since NFTs became the most exciting innovation in the crypto space in 2019. An NFT is a digital asset that can represent anything from a collectible to a tradeable asset like trading cards or generative art. NFT investors who are looking to make a profit or simply add to [...]",
@@ -294,16 +304,6 @@
           "wordCount": 3206,
           "title": "What Is Web3?",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-web3.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=865",
-          "author": "FLOLiO",
-          "description": "One of the most popular metaverse games in existence today, Axie Infinity has been described as a “pokémon inspired universe” that has grown from a little-known blockchain platform into an international gaming phenomenon. The Covid-19 pandemic has only accelerated the game’s adoption, with the current version now a household name in the crypto community. Amazingly, [...]",
-          "link": "https://flolio.com/resources/axie-infinity",
-          "publishedOn": "2022-05-09T13:13:00.000Z",
-          "wordCount": 4703,
-          "title": "Axie Infinity: The Ultimate Guide",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/axie-infinity.png"
         }
       ]
     }

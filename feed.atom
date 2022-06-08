@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-07T01:22:10.955Z</updated>
+    <updated>2022-06-08T01:24:48.863Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Decentralized Web Hosting?]]></title>
+        <id>https://flolio.com/resources/?p=1009</id>
+        <link href="https://flolio.com/resources/decentralized-web-hosting"/>
+        <updated>2022-06-07T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[The Internet is a wild west of change. From new technologies to greater access for all, there is always something new and exciting in the industry. One of the few remaining spaces for true advancement and groundbreaking invention, the world wide web offers a plethora of opportunities and interests. One of the newer developing trends [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best NFT Tracking Tools]]></title>
         <id>https://flolio.com/resources/?p=1277</id>
@@ -292,16 +302,6 @@
         <link href="https://flolio.com/resources/what-is-web3"/>
         <updated>2022-05-10T14:16:00.000Z</updated>
         <summary type="html"><![CDATA[Is the next big thing on the horizon? Or is talk of a “web 3.0” just legend. It is coming. What it will end up becoming is anyone’s guess, but let’s break down the first, basic question about the new phenomenon: what is web3? Before Web 3.0 Web3, or Web 3.0, is what most tech [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Axie Infinity: The Ultimate Guide]]></title>
-        <id>https://flolio.com/resources/?p=865</id>
-        <link href="https://flolio.com/resources/axie-infinity"/>
-        <updated>2022-05-09T13:13:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the most popular metaverse games in existence today, Axie Infinity has been described as a “pokémon inspired universe” that has grown from a little-known blockchain platform into an international gaming phenomenon. The Covid-19 pandemic has only accelerated the game’s adoption, with the current version now a household name in the crypto community. Amazingly, [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
