@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-09T01:25:15.508Z</updated>
+    <updated>2022-06-10T01:41:49.364Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -282,26 +282,6 @@
         <link href="https://flolio.com/resources/what-is-a-bull-market"/>
         <updated>2022-05-11T14:15:00.000Z</updated>
         <summary type="html"><![CDATA[There is no bull about it. The language of the financial industry can be more than a little confusing. Adding some animals into the mix doesn’t help. To better understand the marketplace overall, it is ideal to comprehend the unique vocabulary used by investors and advisors alike. Let’s dive into the strange “zoo” involved with [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remaining calm in the storm | EP #33 | Web3 and Me]]></title>
-        <id>https://flolio.com/resources/?p=2637</id>
-        <link href="https://flolio.com/resources/ep33"/>
-        <updated>2022-05-10T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dan and JWeb talk about the current bear cycle and the bleeding markets, but also touch on the recent Azuki news]]></summary>
-        <author>
-            <name>Web3 and Me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Web3?]]></title>
-        <id>https://flolio.com/resources/?p=873</id>
-        <link href="https://flolio.com/resources/what-is-web3"/>
-        <updated>2022-05-10T14:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Is the next big thing on the horizon? Or is talk of a “web 3.0” just legend. It is coming. What it will end up becoming is anyone’s guess, but let’s break down the first, basic question about the new phenomenon: what is web3? Before Web 3.0 Web3, or Web 3.0, is what most tech [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
