@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-10T01:41:49.364Z</updated>
+    <updated>2022-06-11T01:24:18.848Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -252,36 +252,6 @@
         <link href="https://flolio.com/resources/what-is-fiat-currency"/>
         <updated>2022-05-13T14:24:00.000Z</updated>
         <summary type="html"><![CDATA[In 1971, a financial crisis and declining gold reserves led United States President Richard Nixon to make a monumental economic decision that would forever change the international monetary system. On August 15, Nixon announced his New Economic Policy, a program that effectively ended the Bretton Woods Agreement and untethered the U.S. dollar from the gold [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Decentralized Social?]]></title>
-        <id>https://flolio.com/resources/?p=857</id>
-        <link href="https://flolio.com/resources/what-is-decentralized-social"/>
-        <updated>2022-05-12T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The Decentralized Social (DESO) is hitting news headlines at a rapid pace. Announcing recently the expansion to 1.5 million registered users, the new, layer-1 blockchain is said to be “built from the ground up” with a goal to “scale decentralized social applications to 1 billion users.” The numbers seem well on their way, with DESO [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is a Bear Market?]]></title>
-        <id>https://flolio.com/resources/?p=885</id>
-        <link href="https://flolio.com/resources/what-is-a-bear-market"/>
-        <updated>2022-05-11T19:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Lions, and tigers, and bears, oh my! When it comes to the financial markets, there are plenty of wild terms out there to understand, and we don’t just mean the animals. As with most industries, the world built around the financial institution comes with its own language. To better understand what these creatures mean in [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is a Bull Market?]]></title>
-        <id>https://flolio.com/resources/?p=877</id>
-        <link href="https://flolio.com/resources/what-is-a-bull-market"/>
-        <updated>2022-05-11T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[There is no bull about it. The language of the financial industry can be more than a little confusing. Adding some animals into the mix doesn’t help. To better understand the marketplace overall, it is ideal to comprehend the unique vocabulary used by investors and advisors alike. Let’s dive into the strange “zoo” involved with [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
