@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-12T01:44:09.873Z</updated>
+    <updated>2022-06-13T01:44:24.059Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -232,26 +232,6 @@
         <link href="https://flolio.com/resources/top-selling-nft-artists"/>
         <updated>2022-05-16T15:37:00.000Z</updated>
         <summary type="html"><![CDATA[The wild world of NFTs is constantly changing. A volatile marketplace means prices and values are always on the move. That being said, the unique aspect of NFTs is that the “beauty” (aka selling price in this case) is in the eye of the beholder. Sometimes seemingly plain or similar art may go for millions, [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Market is recovering | EP #34 | Web3 and Me]]></title>
-        <id>https://flolio.com/resources/?p=2643</id>
-        <link href="https://flolio.com/resources/ep34"/>
-        <updated>2022-05-13T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, Dan and Jweb touch on the recent market developments, a bearish cycle, but also about how the market seems to be recovering now that ETH has bottomed out at around $2000, they also answer a question related to undervalued NFT projects.]]></summary>
-        <author>
-            <name>Web3 and Me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Fiat Currency?]]></title>
-        <id>https://flolio.com/resources/?p=893</id>
-        <link href="https://flolio.com/resources/what-is-fiat-currency"/>
-        <updated>2022-05-13T14:24:00.000Z</updated>
-        <summary type="html"><![CDATA[In 1971, a financial crisis and declining gold reserves led United States President Richard Nixon to make a monumental economic decision that would forever change the international monetary system. On August 15, Nixon announced his New Economic Policy, a program that effectively ended the Bretton Woods Agreement and untethered the U.S. dollar from the gold [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
