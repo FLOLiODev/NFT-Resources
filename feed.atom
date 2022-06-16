@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-15T01:39:48.518Z</updated>
+    <updated>2022-06-16T01:37:18.271Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -214,26 +214,6 @@
         <summary type="html"><![CDATA[In this episode, Dan and Jweb are talking about how to survive and thrive in a bearish market cycle.]]></summary>
         <author>
             <name>Web3 and Me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do NFT Auctions Work?]]></title>
-        <id>https://flolio.com/resources/?p=910</id>
-        <link href="https://flolio.com/resources/how-do-nft-auctions-work"/>
-        <updated>2022-05-17T13:11:00.000Z</updated>
-        <summary type="html"><![CDATA[There are many ways in which the NFT marketplace can conduct its business. Varying from platform to platform, the world wide web offers a space limited only by the imagination of its users. From the types of sales to the NFTs themselves, there is a creative and wonderful space on the net. But understanding how [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Top Selling NFT Artists to Collect in 2022]]></title>
-        <id>https://flolio.com/resources/?p=905</id>
-        <link href="https://flolio.com/resources/top-selling-nft-artists"/>
-        <updated>2022-05-16T15:37:00.000Z</updated>
-        <summary type="html"><![CDATA[The wild world of NFTs is constantly changing. A volatile marketplace means prices and values are always on the move. That being said, the unique aspect of NFTs is that the “beauty” (aka selling price in this case) is in the eye of the beholder. Sometimes seemingly plain or similar art may go for millions, [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
         </author>
     </entry>
 </feed>
