@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-16T01:37:18.271Z</updated>
+    <updated>2022-06-17T01:27:45.490Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -204,16 +204,6 @@
         <summary type="html"><![CDATA[The wild and ever-changing world of cryptocurrency comes with it its fair share of confusion. It isn’t always easy to keep track of the latest trends, new products, and marketplaces popping up constantly. To better understand one unique type of crypto, we will take a dive into NEO to better understand the NEO blockchain, NEO [...]]]></summary>
         <author>
             <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Thrive in a Bear Market | EP #35 | Web3 and Me]]></title>
-        <id>https://flolio.com/resources/?p=2870</id>
-        <link href="https://flolio.com/resources/ep-35"/>
-        <updated>2022-05-17T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, Dan and Jweb are talking about how to survive and thrive in a bearish market cycle.]]></summary>
-        <author>
-            <name>Web3 and Me</name>
         </author>
     </entry>
 </feed>
