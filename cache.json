@@ -244,39 +244,9 @@
           "wordCount": 664,
           "title": "Calm before the storm | EP #36 | Web3 and Me",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/ep36.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=926",
-          "author": "FLOLiO",
-          "description": "The wonderful and often wild world of crypto exchanges can get somewhat confusing when it comes to vocabulary. It seems the industry has opted to make up an entire vernacular all of its own, borrowing some words and phrases from the traditional investment environment, and making up new ones for the space along the way. [...]",
-          "link": "https://flolio.com/resources/what-is-dex",
-          "publishedOn": "2022-05-20T12:52:00.000Z",
-          "wordCount": 2991,
-          "title": "What Is a DEX?",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-dex.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=930",
-          "author": "FLOLiO",
-          "description": "In January of 2022, the Mutant Ape Yacht Club made headlines when its rare Serum #69 sold for a whopping 1,542.06 ETH ($5.8 million at the time), making it the largest sale of a Bored Ape “serum” to date.  The serum was bought by Deepak Thapliyal, CEO of the blockchain tech startup Chain, who had [...]",
-          "link": "https://flolio.com/resources/what-is-mutant-ape-yacht-club",
-          "publishedOn": "2022-05-20T12:13:00.000Z",
-          "wordCount": 1311,
-          "title": "What is Mutant Ape Yacht Club",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-mutant-ape-yacht-club.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=922",
-          "author": "FLOLiO",
-          "description": "Have you been on Twitter or even a Discord or maybe amid a conversation involving crypto and found yourself confused by some of the terminology being thrown around? You’re not alone. As a noob or even a vet, navigating this space is ever-evolving and new terms pop up consistently. To make it in the world [...]",
-          "link": "https://flolio.com/resources/crypto-definitions",
-          "publishedOn": "2022-05-19T13:31:00.000Z",
-          "wordCount": 3999,
-          "title": "101 Everyday Crypto Terms Explained",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/crypto-definitions.png"
         }
       ]
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }
