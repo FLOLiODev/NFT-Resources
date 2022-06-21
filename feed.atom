@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-20T01:39:21.902Z</updated>
+    <updated>2022-06-21T01:41:18.461Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Get Free NFTs]]></title>
+        <id>https://flolio.com/resources/?p=2598</id>
+        <link href="https://flolio.com/resources/free-nfts"/>
+        <updated>2022-06-20T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Many people dream of claiming valuable rare items for free. NFTs are often traded for high prices on cryptocurrency exchanges, but is it possible to find them for free? Free NFTs do exist — some even have the potential to make their owners rich. It’s still early days in the game and most digital assets [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Best NFT Analytics & Trading Tools in 2022]]></title>
         <id>https://flolio.com/resources/?p=1273</id>
