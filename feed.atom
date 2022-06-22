@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-21T01:41:18.461Z</updated>
+    <updated>2022-06-22T01:48:56.019Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best NFT Wallets for 2022]]></title>
+        <id>https://flolio.com/resources/?p=2610</id>
+        <link href="https://flolio.com/resources/best-nft-wallet"/>
+        <updated>2022-06-21T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[The world of non-fungible tokens is growing at an incredible rate. There are now hundreds of different NFTs available, each with its own unique characteristics. With so many options, it can be hard to know which wallet is the best for you. That’s why we’ve put together a list of the top NFT wallets of [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Get Free NFTs]]></title>
         <id>https://flolio.com/resources/?p=2598</id>
@@ -232,16 +242,6 @@
         <link href="https://flolio.com/resources/popular-nft-games"/>
         <updated>2022-05-24T15:34:00.000Z</updated>
         <summary type="html"><![CDATA[The video game industry has become increasingly popular over the last few years. It is now one of the most lucrative industries in the world and with the introduction of the blockchain, there are a lot of different ways to use it in the gaming industry expanding the hype of game features. Many companies have [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Invest in Blockchain]]></title>
-        <id>https://flolio.com/resources/?p=850</id>
-        <link href="https://flolio.com/resources/how-to-invest-in-blockchain"/>
-        <updated>2022-05-23T13:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain technology is rapidly increasing in popularity. However, many people seem to be confused about what investing in blockchain means. Is buying cryptocurrency enough? Or should we focus on direct investment in companies developing blockchain technology? Ultimately, blockchain investors fall into one of two categories; investing in crypto stocks or publicly traded companies. The market [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=2610",
+          "author": "FLOLiO",
+          "description": "The world of non-fungible tokens is growing at an incredible rate. There are now hundreds of different NFTs available, each with its own unique characteristics. With so many options, it can be hard to know which wallet is the best for you. That’s why we’ve put together a list of the top NFT wallets of [...]",
+          "link": "https://flolio.com/resources/best-nft-wallet",
+          "publishedOn": "2022-06-21T13:50:00.000Z",
+          "wordCount": 6651,
+          "title": "Best NFT Wallets for 2022",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/cropped-flolio-favicon-150x150.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=2598",
           "author": "FLOLiO",
           "description": "Many people dream of claiming valuable rare items for free. NFTs are often traded for high prices on cryptocurrency exchanges, but is it possible to find them for free? Free NFTs do exist — some even have the potential to make their owners rich. It’s still early days in the game and most digital assets [...]",
@@ -234,16 +244,6 @@
           "wordCount": 4223,
           "title": "Top 5 Most Popular NFT Games in 2022",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/popular-nft-games.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=850",
-          "author": "FLOLiO",
-          "description": "Blockchain technology is rapidly increasing in popularity. However, many people seem to be confused about what investing in blockchain means. Is buying cryptocurrency enough? Or should we focus on direct investment in companies developing blockchain technology? Ultimately, blockchain investors fall into one of two categories; investing in crypto stocks or publicly traded companies. The market [...]",
-          "link": "https://flolio.com/resources/how-to-invest-in-blockchain",
-          "publishedOn": "2022-05-23T13:06:00.000Z",
-          "wordCount": 4772,
-          "title": "How to Invest in Blockchain",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/how-to-invest-in-blockchain.png"
         }
       ]
     }
