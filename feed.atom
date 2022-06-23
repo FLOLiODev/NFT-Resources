@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-22T01:48:56.019Z</updated>
-    <generator>osmosfeed 1.15.0</generator>
+    <updated>2022-06-23T01:24:38.862Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Discord for NFT Beginners]]></title>
+        <id>https://flolio.com/resources/?p=2905</id>
+        <link href="https://flolio.com/resources/discord-nft"/>
+        <updated>2022-06-22T14:46:00.000Z</updated>
+        <summary type="html"><![CDATA[If you are just starting out in the NFT game, someone has likely recommended that you check out Discord. As one of many spaces that can be a good place to tune into for tips, upcoming releases, and even just the latest “buzz” on the industry, it is a useful tool in your NFT collectors/investors’ [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best NFT Wallets for 2022]]></title>
         <id>https://flolio.com/resources/?p=2610</id>
