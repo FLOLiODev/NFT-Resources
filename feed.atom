@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-23T01:24:38.862Z</updated>
+    <updated>2022-06-24T01:39:59.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap NFT – The Unification]]></title>
+        <id>https://flolio.com/resources/?p=3469</id>
+        <link href="https://flolio.com/resources/uniswap-genie"/>
+        <updated>2022-06-23T14:42:00.000Z</updated>
+        <summary type="html"><![CDATA[In a move that is sure to solidify its place as the leading decentralized exchange, Uniswap Labs has announced the acquisition of Genie, the first NFT market aggregator.  With a current market share of over 80%, this move will only serve to increase Uniswap’s dominance in the space. Founded by Hayden Adams, Uniswap has been [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Floor Price NFT?]]></title>
+        <id>https://flolio.com/resources/?p=3382</id>
+        <link href="https://flolio.com/resources/nft-floor-price"/>
+        <updated>2022-06-23T13:58:00.000Z</updated>
+        <summary type="html"><![CDATA[In recent months, the term “price floor” has become increasingly common in discussions about NFTs. So what exactly is a price floor, and why is it relevant to the NFT market? In the NFT space, there are two seemingly simple propositions. One is that an NFT should be worth how much someone is willing to [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Discord for NFT Beginners]]></title>
         <id>https://flolio.com/resources/?p=2905</id>
@@ -232,26 +252,6 @@
         <link href="https://flolio.com/resources/real-estate-on-blockchain"/>
         <updated>2022-05-25T14:26:00.000Z</updated>
         <summary type="html"><![CDATA[The way we live and do business is changing faster than ever before. Blockchain has led the charge in disrupting our normal technological routines from financial services to how we distribute our food supply.  From cryptocurrencies revolutionizing payments to initial coin offerings challenging stock investing, it’s no surprise that this technology has made its way [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Our Ideal NFT Portfolios | EP #37 | Web3 and Me]]></title>
-        <id>https://flolio.com/resources/?p=2972</id>
-        <link href="https://flolio.com/resources/ep37"/>
-        <updated>2022-05-24T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dan and Jeremy recap the weekend action in the NFT market, including the Goblin Town free mint, Chimpers reveal, and Rekt Guy by OSF]]></summary>
-        <author>
-            <name>Web3 and Me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Most Popular NFT Games in 2022]]></title>
-        <id>https://flolio.com/resources/?p=914</id>
-        <link href="https://flolio.com/resources/popular-nft-games"/>
-        <updated>2022-05-24T15:34:00.000Z</updated>
-        <summary type="html"><![CDATA[The video game industry has become increasingly popular over the last few years. It is now one of the most lucrative industries in the world and with the introduction of the blockchain, there are a lot of different ways to use it in the gaming industry expanding the hype of game features. Many companies have [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>

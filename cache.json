@@ -6,6 +6,26 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=3469",
+          "author": "FLOLiO",
+          "description": "In a move that is sure to solidify its place as the leading decentralized exchange, Uniswap Labs has announced the acquisition of Genie, the first NFT market aggregator.  With a current market share of over 80%, this move will only serve to increase Uniswap’s dominance in the space. Founded by Hayden Adams, Uniswap has been [...]",
+          "link": "https://flolio.com/resources/uniswap-genie",
+          "publishedOn": "2022-06-23T14:42:00.000Z",
+          "wordCount": 3357,
+          "title": "Uniswap NFT – The Unification",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/uniswap-genie.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=3382",
+          "author": "FLOLiO",
+          "description": "In recent months, the term “price floor” has become increasingly common in discussions about NFTs. So what exactly is a price floor, and why is it relevant to the NFT market? In the NFT space, there are two seemingly simple propositions. One is that an NFT should be worth how much someone is willing to [...]",
+          "link": "https://flolio.com/resources/nft-floor-price",
+          "publishedOn": "2022-06-23T13:58:00.000Z",
+          "wordCount": 4888,
+          "title": "What is Floor Price NFT?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-floor-price.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=2905",
           "author": "FLOLiO",
           "description": "If you are just starting out in the NFT game, someone has likely recommended that you check out Discord. As one of many spaces that can be a good place to tune into for tips, upcoming releases, and even just the latest “buzz” on the industry, it is a useful tool in your NFT collectors/investors’ [...]",
@@ -234,26 +254,6 @@
           "wordCount": 1906,
           "title": "Real Estate on Blockchain",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/real-estate-on-blockchain.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=2972",
-          "author": "Web3 and Me",
-          "description": "Dan and Jeremy recap the weekend action in the NFT market, including the Goblin Town free mint, Chimpers reveal, and Rekt Guy by OSF",
-          "link": "https://flolio.com/resources/ep37",
-          "publishedOn": "2022-05-24T17:00:00.000Z",
-          "wordCount": 767,
-          "title": "Building Our Ideal NFT Portfolios | EP #37 | Web3 and Me",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/ep37.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=914",
-          "author": "FLOLiO",
-          "description": "The video game industry has become increasingly popular over the last few years. It is now one of the most lucrative industries in the world and with the introduction of the blockchain, there are a lot of different ways to use it in the gaming industry expanding the hype of game features. Many companies have [...]",
-          "link": "https://flolio.com/resources/popular-nft-games",
-          "publishedOn": "2022-05-24T15:34:00.000Z",
-          "wordCount": 4223,
-          "title": "Top 5 Most Popular NFT Games in 2022",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/popular-nft-games.png"
         }
       ]
     }
