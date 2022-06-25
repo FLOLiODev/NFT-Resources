@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-24T01:39:59.021Z</updated>
+    <updated>2022-06-25T01:42:54.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Do You Know If NFTs Are Valuable?]]></title>
+        <id>https://flolio.com/resources/?p=3121</id>
+        <link href="https://flolio.com/resources/nft-valuation"/>
+        <updated>2022-06-24T12:27:00.000Z</updated>
+        <summary type="html"><![CDATA[The rise of the non-fungible token from a speculative asset class into a high-value commodity has generated widespread attention both in the press and on social media. While the growing acceptance of digital art has helped propel NFT ecosystems to new heights, there are many members of the crypto community who remain skeptical about the [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniswap NFT – The Unification]]></title>
         <id>https://flolio.com/resources/?p=3469</id>
@@ -242,16 +252,6 @@
         <link href="https://flolio.com/resources/decentralized-autonomous-organizations"/>
         <updated>2022-05-26T15:22:00.000Z</updated>
         <summary type="html"><![CDATA[If you are no stranger to Web3 then you are familiar with the language of acronyms. Those most commonly thrown around would be NFT (Non-Fungible Token), ETH (Ethereum), and the focus of this write-up, DAO (Decentralized autonomous organization) which are currently being incorporated into many blockchain projects within the decentralized finance (DeFi) landscape. Simply using [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real Estate on Blockchain]]></title>
-        <id>https://flolio.com/resources/?p=897</id>
-        <link href="https://flolio.com/resources/real-estate-on-blockchain"/>
-        <updated>2022-05-25T14:26:00.000Z</updated>
-        <summary type="html"><![CDATA[The way we live and do business is changing faster than ever before. Blockchain has led the charge in disrupting our normal technological routines from financial services to how we distribute our food supply.  From cryptocurrencies revolutionizing payments to initial coin offerings challenging stock investing, it’s no surprise that this technology has made its way [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=3121",
+          "author": "FLOLiO",
+          "description": "The rise of the non-fungible token from a speculative asset class into a high-value commodity has generated widespread attention both in the press and on social media. While the growing acceptance of digital art has helped propel NFT ecosystems to new heights, there are many members of the crypto community who remain skeptical about the [...]",
+          "link": "https://flolio.com/resources/nft-valuation",
+          "publishedOn": "2022-06-24T12:27:00.000Z",
+          "wordCount": 4396,
+          "title": "How Do You Know If NFTs Are Valuable?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-valuation.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=3469",
           "author": "FLOLiO",
           "description": "In a move that is sure to solidify its place as the leading decentralized exchange, Uniswap Labs has announced the acquisition of Genie, the first NFT market aggregator.  With a current market share of over 80%, this move will only serve to increase Uniswap’s dominance in the space. Founded by Hayden Adams, Uniswap has been [...]",
@@ -244,16 +254,6 @@
           "wordCount": 2508,
           "title": "What is a Decentralized Autonomous Organization?",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/decentralized-autonomous-organizations.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=897",
-          "author": "FLOLiO",
-          "description": "The way we live and do business is changing faster than ever before. Blockchain has led the charge in disrupting our normal technological routines from financial services to how we distribute our food supply.  From cryptocurrencies revolutionizing payments to initial coin offerings challenging stock investing, it’s no surprise that this technology has made its way [...]",
-          "link": "https://flolio.com/resources/real-estate-on-blockchain",
-          "publishedOn": "2022-05-25T14:26:00.000Z",
-          "wordCount": 1906,
-          "title": "Real Estate on Blockchain",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/real-estate-on-blockchain.png"
         }
       ]
     }
