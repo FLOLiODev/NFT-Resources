@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-25T01:42:54.558Z</updated>
+    <updated>2022-06-26T01:46:49.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -244,16 +244,6 @@
         <summary type="html"><![CDATA[Jeremy is joined by special guest Nate to recap the last week in the NFT market including the incredible run that Goblintown has been on as well as new projects Boki and AInightbirds.]]></summary>
         <author>
             <name>Web3 and Me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Decentralized Autonomous Organization?]]></title>
-        <id>https://flolio.com/resources/?p=889</id>
-        <link href="https://flolio.com/resources/decentralized-autonomous-organizations"/>
-        <updated>2022-05-26T15:22:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are no stranger to Web3 then you are familiar with the language of acronyms. Those most commonly thrown around would be NFT (Non-Fungible Token), ETH (Ethereum), and the focus of this write-up, DAO (Decentralized autonomous organization) which are currently being incorporated into many blockchain projects within the decentralized finance (DeFi) landscape. Simply using [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
         </author>
     </entry>
 </feed>
