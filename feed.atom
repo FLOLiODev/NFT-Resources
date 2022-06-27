@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-26T01:46:49.883Z</updated>
+    <updated>2022-06-27T01:48:44.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -234,16 +234,6 @@
         <summary type="html"><![CDATA[In the simplest terms, DeFi is short for Decentralized Finance. It’s a catch-all term for various financial protocols and platforms that run on Ethereum. From lending and borrowing platforms to stablecoins and tokenized BTC, there’s a wide variety of DeFi applications available today and because they’re running on Ethereum, they’re accessible to anyone with an [...]]]></summary>
         <author>
             <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heading to Goblintown with Nate Digital | EP #38 | Web3 and Me]]></title>
-        <id>https://flolio.com/resources/?p=2977</id>
-        <link href="https://flolio.com/resources/ep38"/>
-        <updated>2022-05-27T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jeremy is joined by special guest Nate to recap the last week in the NFT market including the incredible run that Goblintown has been on as well as new projects Boki and AInightbirds.]]></summary>
-        <author>
-            <name>Web3 and Me</name>
         </author>
     </entry>
 </feed>
