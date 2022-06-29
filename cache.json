@@ -6,6 +6,26 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=2913",
+          "author": "FLOLiO",
+          "description": "The rise of the non-fungible token from a little-known digital item into a multi-million dollar market has created a unique community of adoptees that use social media sites and chat groups to interact and share ideas. Because of the novelty of NFTs and the exclusivity of these groups, crypto enthusiasts have developed a vast number [...]",
+          "link": "https://flolio.com/resources/ngmi-wagmi",
+          "publishedOn": "2022-06-28T14:00:00.000Z",
+          "wordCount": 3626,
+          "title": "What is NGMI and WAGMI?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-ngmi-wagmi.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=3139",
+          "author": "FLOLiO",
+          "description": "It is a wild and confusing world out there, and the introduction of the blockchain only opened an entirely new space of cryptocurrencies, NFTs, and Web 3.0. To fully understand some of the complex aspects of the industry, it is important to break down the definitions of the newly formed vocabulary. Additionally, learning the tools [...]",
+          "link": "https://flolio.com/resources/nft-rarity-ranking-tool",
+          "publishedOn": "2022-06-27T14:00:00.000Z",
+          "wordCount": 6927,
+          "title": "10 NFT Rarity Ranking Tools Whales Use to Profit",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-rarity-ranking-tool.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=3121",
           "author": "FLOLiO",
           "description": "The rise of the non-fungible token from a speculative asset class into a high-value commodity has generated widespread attention both in the press and on social media. While the growing acceptance of digital art has helped propel NFT ecosystems to new heights, there are many members of the crypto community who remain skeptical about the [...]",
@@ -224,16 +244,6 @@
           "wordCount": 5016,
           "title": "Best NFT Tokens to Buy in May 2022",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/best-nft-tokens.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=869",
-          "author": "FLOLiO",
-          "description": "In the simplest terms, DeFi is short for Decentralized Finance. It’s a catch-all term for various financial protocols and platforms that run on Ethereum. From lending and borrowing platforms to stablecoins and tokenized BTC, there’s a wide variety of DeFi applications available today and because they’re running on Ethereum, they’re accessible to anyone with an [...]",
-          "link": "https://flolio.com/resources/defi-insurance",
-          "publishedOn": "2022-05-30T12:15:00.000Z",
-          "wordCount": 2882,
-          "title": "Decentralized Insurance – DeFi Protection",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/defi-insurance.png"
         }
       ]
     }
