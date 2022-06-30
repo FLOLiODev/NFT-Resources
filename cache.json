@@ -6,6 +6,16 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=2858",
+          "author": "FLOLiO",
+          "description": "Non-fungible tokens are not merely a string of numbers. They are backed by smart contracts, which are essentially a sort of digital self-executing contract. If you have a non-fungible token that has no market value or is otherwise useless to you, you can delete it. If you are a beginner with limited knowledge and just [...]",
+          "link": "https://flolio.com/resources/delete-nft",
+          "publishedOn": "2022-06-29T14:00:00.000Z",
+          "wordCount": 4475,
+          "title": "Can You Delete an NFT?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/delete-nft.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=2913",
           "author": "FLOLiO",
           "description": "The rise of the non-fungible token from a little-known digital item into a multi-million dollar market has created a unique community of adoptees that use social media sites and chat groups to interact and share ideas. Because of the novelty of NFTs and the exclusivity of these groups, crypto enthusiasts have developed a vast number [...]",
@@ -234,16 +244,6 @@
           "wordCount": 756,
           "title": "10 Lessons From a Year of NFT Trading | EP #39 | Web3 and Me",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/ep39.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=2881",
-          "author": "FLOLiO",
-          "description": "In the world of digital assets, non-fungible tokens (NFTs) are becoming increasingly popular. Unlike fungible assets which can be easily swapped or transferred, NFTs are unique and cannot be replaced. NFTs are often compared to collectibles, as they are one-of-a-kind digital assets that have no physical form. However, NFTs can be purchased and traded just [...]",
-          "link": "https://flolio.com/resources/best-nft-tokens",
-          "publishedOn": "2022-05-31T13:29:00.000Z",
-          "wordCount": 5016,
-          "title": "Best NFT Tokens to Buy in May 2022",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/best-nft-tokens.png"
         }
       ]
     }
