@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-30T01:42:24.691Z</updated>
+    <updated>2022-07-01T01:53:52.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best NFT Discord Communities to Join in 2022]]></title>
+        <id>https://flolio.com/resources/?p=2909</id>
+        <link href="https://flolio.com/resources/best-nft-discord-communities"/>
+        <updated>2022-06-30T14:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you are just starting out on your NFT venture, or you’re already an “old pro” in the industry, there are always benefits to learning from those around you. Discord is just one of many applications that can be used as an educational tool in your NFT game. From joining robust NFT communities to learning [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can You Delete an NFT?]]></title>
         <id>https://flolio.com/resources/?p=2858</id>
@@ -234,16 +244,6 @@
         <summary type="html"><![CDATA[What is Ethereum 2.0? How will it differ from the current Ethereum protocol? These are a few questions being asked as the development of Ethereum 2.0 gains momentum. and the community eagerly awaits the launch of the new and improved network. The Ethereum Foundation has been working on Ethereum 2.0 as the first upgrade to [...]]]></summary>
         <author>
             <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Lessons From a Year of NFT Trading | EP #39 | Web3 and Me]]></title>
-        <id>https://flolio.com/resources/?p=2982</id>
-        <link href="https://flolio.com/resources/ep39"/>
-        <updated>2022-05-31T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On today's show, JWeb gives his list of 10 lessons that he has learned over the last year trading NFTs. He'll discuss some of his wins and losses, and how he has improved as an NFT trader.]]></summary>
-        <author>
-            <name>Web3 and Me</name>
         </author>
     </entry>
 </feed>
