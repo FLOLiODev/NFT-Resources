@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-02T01:41:05.851Z</updated>
+    <updated>2022-07-03T01:50:42.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -214,26 +214,6 @@
         <summary type="html"><![CDATA[In this episode, Jeremy is joined by Kevin Shannon to recap what has happened this week in the NFT market. They'll also break down whether we're on the verge of the next bull run or a sustained bear market.]]></summary>
         <author>
             <name>Web3 and Me</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 Alternative Cryptocurrencies To Bitcoin]]></title>
-        <id>https://flolio.com/resources/?p=1001</id>
-        <link href="https://flolio.com/resources/alternative-cryptocurrencies"/>
-        <updated>2022-06-03T13:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Cryptocurrencies are currently more popular than ever and as the first cryptocurrency, Bitcoin has created a movement as the forerunner to the rest. However, there are plenty of other digital assets that have been created since the release of Bitcoin that is inching further into the curiosity of investors and becoming valuable cryptocurrency by making [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does a Peer to Peer Network Work?]]></title>
-        <id>https://flolio.com/resources/?p=947</id>
-        <link href="https://flolio.com/resources/peer-to-peer-network"/>
-        <updated>2022-06-02T15:40:00.000Z</updated>
-        <summary type="html"><![CDATA[The term “peer-to-peer” means one-on-one — and it’s perfectly suited to the computing world. In a peer-to-peer network, each node is both a client and a server. There is no top-down hierarchy where nodes are clients and servers; instead, each node is an autonomous agent that responds to centralized requests. The peer-to-peer network is one [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
         </author>
     </entry>
 </feed>
