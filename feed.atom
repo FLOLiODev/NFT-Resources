@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-03T01:50:42.869Z</updated>
+    <updated>2022-07-04T01:54:24.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -204,16 +204,6 @@
         <summary type="html"><![CDATA[The NFT market has been exploding since NFTs became the most exciting innovation in the crypto space in 2019. An NFT is a digital asset that can represent anything from a collectible to a tradeable asset like trading cards or generative art. NFT investors who are looking to make a profit or simply add to [...]]]></summary>
         <author>
             <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the NFT market getting ready to run?  | EP #40 | Web3 and Me]]></title>
-        <id>https://flolio.com/resources/?p=3088</id>
-        <link href="https://flolio.com/resources/ep40"/>
-        <updated>2022-06-03T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, Jeremy is joined by Kevin Shannon to recap what has happened this week in the NFT market. They'll also break down whether we're on the verge of the next bull run or a sustained bear market.]]></summary>
-        <author>
-            <name>Web3 and Me</name>
         </author>
     </entry>
 </feed>
