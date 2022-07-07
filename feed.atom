@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-06T01:55:19.300Z</updated>
+    <updated>2022-07-07T01:49:10.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -182,26 +182,6 @@
         <link href="https://flolio.com/resources/what-is-dapp-development"/>
         <updated>2022-06-08T12:16:00.000Z</updated>
         <summary type="html"><![CDATA[There are a couple of things everyone’s talking about — cryptocurrency and decentralized applications. Cryptocurrency, being the byproduct of blockchain, is the most popular amongst investors and those outside of the investment world. Bitcoin cryptocurrency is the first decentralized application that spearheads the entire crypto world. However, there have been other decentralized applications created since. [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Decentralized Web Hosting?]]></title>
-        <id>https://flolio.com/resources/?p=1009</id>
-        <link href="https://flolio.com/resources/decentralized-web-hosting"/>
-        <updated>2022-06-07T13:26:00.000Z</updated>
-        <summary type="html"><![CDATA[The Internet is a wild west of change. From new technologies to greater access for all, there is always something new and exciting in the industry. One of the few remaining spaces for true advancement and groundbreaking invention, the world wide web offers a plethora of opportunities and interests. One of the newer developing trends [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best NFT Tracking Tools]]></title>
-        <id>https://flolio.com/resources/?p=1277</id>
-        <link href="https://flolio.com/resources/nft-tracking-tools"/>
-        <updated>2022-06-06T13:57:00.000Z</updated>
-        <summary type="html"><![CDATA[The NFT market has been exploding since NFTs became the most exciting innovation in the crypto space in 2019. An NFT is a digital asset that can represent anything from a collectible to a tradeable asset like trading cards or generative art. NFT investors who are looking to make a profit or simply add to [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
