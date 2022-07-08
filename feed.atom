@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-07T01:49:10.776Z</updated>
+    <updated>2022-07-08T01:48:01.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -172,16 +172,6 @@
         <link href="https://flolio.com/resources/decentralized-storage"/>
         <updated>2022-06-09T14:06:00.000Z</updated>
         <summary type="html"><![CDATA[The digital world is a wild and wonderful space. With ever-changing technologies always updating and adding to the color palate, it can be hard to stay abreast of all the new and exciting terminology, tech, and concepts out on today’s market. To keep yourself informed of these new advancements, it is ideal to break down [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Essential Guide to dApp Development]]></title>
-        <id>https://flolio.com/resources/?p=1017</id>
-        <link href="https://flolio.com/resources/what-is-dapp-development"/>
-        <updated>2022-06-08T12:16:00.000Z</updated>
-        <summary type="html"><![CDATA[There are a couple of things everyone’s talking about — cryptocurrency and decentralized applications. Cryptocurrency, being the byproduct of blockchain, is the most popular amongst investors and those outside of the investment world. Bitcoin cryptocurrency is the first decentralized application that spearheads the entire crypto world. However, there have been other decentralized applications created since. [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
