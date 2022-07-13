@@ -6,6 +6,16 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=2618",
+          "author": "FLOLiO",
+          "description": "The online world of buying, selling, and trading NFTs, as well as the cryptocurrency marketplace, can be a confusing and jumbled mess of numbers, letters, unknown abbreviations, and jargon. To operate in the space, it is crucial to break down the meanings of the phrases and words used, so you can make informed decisions about [...]",
+          "link": "https://flolio.com/resources/what-is-x2y2",
+          "publishedOn": "2022-07-01T14:00:00.000Z",
+          "wordCount": 6424,
+          "title": "What Is X2Y2?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-x2y2.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=2909",
           "author": "FLOLiO",
           "description": "Whether you are just starting out on your NFT venture, or you’re already an “old pro” in the industry, there are always benefits to learning from those around you. Discord is just one of many applications that can be used as an educational tool in your NFT game. From joining robust NFT communities to learning [...]",
@@ -144,16 +154,6 @@
           "wordCount": 5026,
           "title": "Ether Coins and The Ethereum Network",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-ether-coin.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=1203",
-          "author": "FLOLiO",
-          "description": "The massive surge in cryptocurrency adoption by the general public in recent years has led to a fierce debate as to which digital token will be the most valuable in the future. While hundreds of different coins exist today, there remain only two real contenders for the top spot in the eyes of the crypto [...]",
-          "link": "https://flolio.com/resources/bitcoin-vs-ethereum",
-          "publishedOn": "2022-06-13T12:36:00.000Z",
-          "wordCount": 3224,
-          "title": "Bitcoin vs Ethereum",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/bitcoin-vs-ethereum.png"
         }
       ]
     }

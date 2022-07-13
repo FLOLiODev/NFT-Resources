@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-12T01:50:02.669Z</updated>
+    <updated>2022-07-13T01:44:43.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is X2Y2?]]></title>
+        <id>https://flolio.com/resources/?p=2618</id>
+        <link href="https://flolio.com/resources/what-is-x2y2"/>
+        <updated>2022-07-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The online world of buying, selling, and trading NFTs, as well as the cryptocurrency marketplace, can be a confusing and jumbled mess of numbers, letters, unknown abbreviations, and jargon. To operate in the space, it is crucial to break down the meanings of the phrases and words used, so you can make informed decisions about [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best NFT Discord Communities to Join in 2022]]></title>
         <id>https://flolio.com/resources/?p=2909</id>
@@ -142,16 +152,6 @@
         <link href="https://flolio.com/resources/what-is-ether-coin"/>
         <updated>2022-06-14T14:33:00.000Z</updated>
         <summary type="html"><![CDATA[Ether (ETH) is the main token of the Ethereum blockchain and the world’s second-largest cryptocurrency by market capitalization. Like Bitcoin, Ether can be used as a payment system to send payments directly to another person without a central authority such as a bank. Unlike Bitcoin, however, Ether coins can be used to create applications in [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin vs Ethereum]]></title>
-        <id>https://flolio.com/resources/?p=1203</id>
-        <link href="https://flolio.com/resources/bitcoin-vs-ethereum"/>
-        <updated>2022-06-13T12:36:00.000Z</updated>
-        <summary type="html"><![CDATA[The massive surge in cryptocurrency adoption by the general public in recent years has led to a fierce debate as to which digital token will be the most valuable in the future. While hundreds of different coins exist today, there remain only two real contenders for the top spot in the eyes of the crypto [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
