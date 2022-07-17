@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-16T01:45:21.978Z</updated>
+    <updated>2022-07-17T01:52:06.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -122,16 +122,6 @@
         <link href="https://flolio.com/resources/best-nft-tools"/>
         <updated>2022-06-17T13:55:00.000Z</updated>
         <summary type="html"><![CDATA[Whether you are a novice or just starting in the NFT space, you are privy to the unlimited potential to leverage the digital asset. It isn’t impossible to make money in the NFT world without the proper tools but it borders on insane to try. Having access to various tools and a full understanding of [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are the Advantages of Using Blockchain for Identity Management?]]></title>
-        <id>https://flolio.com/resources/?p=1269</id>
-        <link href="https://flolio.com/resources/identity-management-using-blockchain"/>
-        <updated>2022-06-16T13:53:00.000Z</updated>
-        <summary type="html"><![CDATA[There is a buzz in the online world about the addition of the blockchain and its technologies. It only seems logical that we consider it to solve one of the biggest challenges of the space: identity management. Can identity management using blockchain help to stop fraud? What unique features does it offer? How has it [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
