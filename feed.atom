@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-21T01:46:40.248Z</updated>
+    <updated>2022-07-22T01:49:34.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -92,16 +92,6 @@
         <link href="https://flolio.com/resources/discord-nft"/>
         <updated>2022-06-22T14:46:00.000Z</updated>
         <summary type="html"><![CDATA[If you are just starting out in the NFT game, someone has likely recommended that you check out Discord. As one of many spaces that can be a good place to tune into for tips, upcoming releases, and even just the latest “buzz” on the industry, it is a useful tool in your NFT collectors/investors’ [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best NFT Wallets for 2022]]></title>
-        <id>https://flolio.com/resources/?p=2610</id>
-        <link href="https://flolio.com/resources/best-nft-wallet"/>
-        <updated>2022-06-21T13:50:00.000Z</updated>
-        <summary type="html"><![CDATA[The world of non-fungible tokens is growing at an incredible rate. There are now hundreds of different NFTs available, each with its own unique characteristics. With so many options, it can be hard to know which wallet is the best for you. That’s why we’ve put together a list of the top NFT wallets of [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
