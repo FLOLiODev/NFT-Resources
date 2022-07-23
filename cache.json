@@ -6,6 +6,96 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=2953",
+          "author": "FLOLiO",
+          "description": "Learn how to mine NFTs on the Ethereum blockchain with this beginner-friendly guide.",
+          "link": "https://flolio.com/resources/nft-mining",
+          "publishedOn": "2022-07-18T14:00:00.000Z",
+          "wordCount": 5039,
+          "title": "Can You Mine NFTs?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-mining.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=2949",
+          "author": "FLOLiO",
+          "description": "There are various reasons an NFT collector would want or need to delete an NFT. Discover our step-by-step guide on how to delete NFT on Mintable.",
+          "link": "https://flolio.com/resources/delete-nft-mintable",
+          "publishedOn": "2022-07-15T14:00:00.000Z",
+          "wordCount": 4049,
+          "title": "How to Delete NFT on Mintable",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/delete-nft-mintable.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=2941",
+          "author": "FLOLiO",
+          "description": "Want to know how to promote your NFT? Discover our tips and trick on how to promote your NFT collection in this guide",
+          "link": "https://flolio.com/resources/nft-promotion",
+          "publishedOn": "2022-07-14T14:00:00.000Z",
+          "wordCount": 4556,
+          "title": "How to Promote Your NFT Collections",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-promotion.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=2921",
+          "author": "FLOLiO",
+          "description": "There are various reasons an NFT collector would want or need to delete an NFT. Discover our guide on how to delete NFTs on OpenSea.",
+          "link": "https://flolio.com/resources/delete-nft-opensea",
+          "publishedOn": "2022-07-13T14:00:00.000Z",
+          "wordCount": 3651,
+          "title": "How To Delete an NFT on OpenSea",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/delete-nft-opensea.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=2917",
+          "author": "FLOLiO",
+          "description": "There are various reasons an NFT collector would want or need to delete an NFT. Discover our guide on how to delete NFTs on Looksrare.",
+          "link": "https://flolio.com/resources/delete-nft-looksrare",
+          "publishedOn": "2022-07-12T14:00:00.000Z",
+          "wordCount": 3334,
+          "title": "How to Delete NFT on LooksRare",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/delete-nft-looksrare.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=2901",
+          "author": "FLOLiO",
+          "description": "Learn about wash trading, a form of market manipulation that can be used to artificially increase the price of a cryptocurrency or NFT.",
+          "link": "https://flolio.com/resources/wash-trading",
+          "publishedOn": "2022-07-11T14:00:00.000Z",
+          "wordCount": 2599,
+          "title": "What is Wash Trading?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/wash-trading.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=2862",
+          "author": "FLOLiO",
+          "description": "If you are ready to take a dive into the crazed and varied world of the non-fungible token, you aren’t alone. This phenomenon has taken the world by storm, offering a unique investment, collecting, and artistic option for users all over the globe. If you are just starting out in this adventure, it can be [...]",
+          "link": "https://flolio.com/resources/nft-communities",
+          "publishedOn": "2022-07-08T14:00:00.000Z",
+          "wordCount": 4605,
+          "title": "How to Find Good NFT Communities",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-communities.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=2772",
+          "author": "FLOLiO",
+          "description": "Blue Chip is an investment term that first surfaced in the 1920s when Oliver Gingold, a stock quote clerk at Dow Jones & Company, noticed that certain high-priced stocks were trading at $200 or more per share. Poker players bet in blue, white, and red chips with the blue chips having a higher value. Blue-chip [...]",
+          "link": "https://flolio.com/resources/blue-chip-nfts",
+          "publishedOn": "2022-07-07T14:00:00.000Z",
+          "wordCount": 4429,
+          "title": "What are Blue Chip NFTs",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/blue-chip-nfts.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=2776",
+          "author": "FLOLiO",
+          "description": "One of the most talked-about NFT platforms of 2022, LooksRare has been described as an early model of a community-first NFT marketplace that puts people above profit. LooksRare aims to transform the NFT market through its unique buying and selling system, which actively rewards users every time they make a transaction. The LooksRare team has [...]",
+          "link": "https://flolio.com/resources/what-is-looksrare",
+          "publishedOn": "2022-07-06T14:00:00.000Z",
+          "wordCount": 3056,
+          "title": "What is LooksRare?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-is-looksrare.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=2618",
           "author": "FLOLiO",
           "description": "The online world of buying, selling, and trading NFTs, as well as the cryptocurrency marketplace, can be a confusing and jumbled mess of numbers, letters, unknown abbreviations, and jargon. To operate in the space, it is crucial to break down the meanings of the phrases and words used, so you can make informed decisions about [...]",
@@ -84,16 +174,6 @@
           "wordCount": 4888,
           "title": "What is Floor Price NFT?",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-floor-price.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=2905",
-          "author": "FLOLiO",
-          "description": "If you are just starting out in the NFT game, someone has likely recommended that you check out Discord. As one of many spaces that can be a good place to tune into for tips, upcoming releases, and even just the latest “buzz” on the industry, it is a useful tool in your NFT collectors/investors’ [...]",
-          "link": "https://flolio.com/resources/discord-nft",
-          "publishedOn": "2022-06-22T14:46:00.000Z",
-          "wordCount": 5947,
-          "title": "Discord for NFT Beginners",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/discord-nft.png"
         }
       ]
     }

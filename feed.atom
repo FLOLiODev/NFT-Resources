@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-22T01:49:34.611Z</updated>
+    <updated>2022-07-23T01:45:24.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can You Mine NFTs?]]></title>
+        <id>https://flolio.com/resources/?p=2953</id>
+        <link href="https://flolio.com/resources/nft-mining"/>
+        <updated>2022-07-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to mine NFTs on the Ethereum blockchain with this beginner-friendly guide.]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Delete NFT on Mintable]]></title>
+        <id>https://flolio.com/resources/?p=2949</id>
+        <link href="https://flolio.com/resources/delete-nft-mintable"/>
+        <updated>2022-07-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are various reasons an NFT collector would want or need to delete an NFT. Discover our step-by-step guide on how to delete NFT on Mintable.]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Promote Your NFT Collections]]></title>
+        <id>https://flolio.com/resources/?p=2941</id>
+        <link href="https://flolio.com/resources/nft-promotion"/>
+        <updated>2022-07-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to know how to promote your NFT? Discover our tips and trick on how to promote your NFT collection in this guide]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Delete an NFT on OpenSea]]></title>
+        <id>https://flolio.com/resources/?p=2921</id>
+        <link href="https://flolio.com/resources/delete-nft-opensea"/>
+        <updated>2022-07-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are various reasons an NFT collector would want or need to delete an NFT. Discover our guide on how to delete NFTs on OpenSea.]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Delete NFT on LooksRare]]></title>
+        <id>https://flolio.com/resources/?p=2917</id>
+        <link href="https://flolio.com/resources/delete-nft-looksrare"/>
+        <updated>2022-07-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are various reasons an NFT collector would want or need to delete an NFT. Discover our guide on how to delete NFTs on Looksrare.]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Wash Trading?]]></title>
+        <id>https://flolio.com/resources/?p=2901</id>
+        <link href="https://flolio.com/resources/wash-trading"/>
+        <updated>2022-07-11T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about wash trading, a form of market manipulation that can be used to artificially increase the price of a cryptocurrency or NFT.]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find Good NFT Communities]]></title>
+        <id>https://flolio.com/resources/?p=2862</id>
+        <link href="https://flolio.com/resources/nft-communities"/>
+        <updated>2022-07-08T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you are ready to take a dive into the crazed and varied world of the non-fungible token, you aren’t alone. This phenomenon has taken the world by storm, offering a unique investment, collecting, and artistic option for users all over the globe. If you are just starting out in this adventure, it can be [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Blue Chip NFTs]]></title>
+        <id>https://flolio.com/resources/?p=2772</id>
+        <link href="https://flolio.com/resources/blue-chip-nfts"/>
+        <updated>2022-07-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blue Chip is an investment term that first surfaced in the 1920s when Oliver Gingold, a stock quote clerk at Dow Jones & Company, noticed that certain high-priced stocks were trading at $200 or more per share. Poker players bet in blue, white, and red chips with the blue chips having a higher value. Blue-chip [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is LooksRare?]]></title>
+        <id>https://flolio.com/resources/?p=2776</id>
+        <link href="https://flolio.com/resources/what-is-looksrare"/>
+        <updated>2022-07-06T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the most talked-about NFT platforms of 2022, LooksRare has been described as an early model of a community-first NFT marketplace that puts people above profit. LooksRare aims to transform the NFT market through its unique buying and selling system, which actively rewards users every time they make a transaction. The LooksRare team has [...]]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is X2Y2?]]></title>
         <id>https://flolio.com/resources/?p=2618</id>
@@ -82,16 +172,6 @@
         <link href="https://flolio.com/resources/nft-floor-price"/>
         <updated>2022-06-23T13:58:00.000Z</updated>
         <summary type="html"><![CDATA[In recent months, the term “price floor” has become increasingly common in discussions about NFTs. So what exactly is a price floor, and why is it relevant to the NFT market? In the NFT space, there are two seemingly simple propositions. One is that an NFT should be worth how much someone is willing to [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discord for NFT Beginners]]></title>
-        <id>https://flolio.com/resources/?p=2905</id>
-        <link href="https://flolio.com/resources/discord-nft"/>
-        <updated>2022-06-22T14:46:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are just starting out in the NFT game, someone has likely recommended that you check out Discord. As one of many spaces that can be a good place to tune into for tips, upcoming releases, and even just the latest “buzz” on the industry, it is a useful tool in your NFT collectors/investors’ [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
