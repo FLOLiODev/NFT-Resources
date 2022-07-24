@@ -6,6 +6,46 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=2933",
+          "author": "FLOLiO",
+          "description": "Discover the best NFT marketplaces to buy and sell NFTs. We review the top NFT platforms that provide a safe and secure place for your NFT transactions",
+          "link": "https://flolio.com/resources/top-nft-platforms",
+          "publishedOn": "2022-07-22T14:00:00.000Z",
+          "wordCount": 6332,
+          "title": "Top NFT Platforms to Buy and Sell NFTs in 2022",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/best-nft-marketplace.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=2937",
+          "author": "FLOLiO",
+          "description": "Games that use non-fungible tokens (NFTs) are offering players fresh new experiences, discover our list of the best NFT games in 2022",
+          "link": "https://flolio.com/resources/best-nft-games",
+          "publishedOn": "2022-07-21T14:00:00.000Z",
+          "wordCount": 6412,
+          "title": "The Best NFT Games in 2022",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/best-nft-games.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=2945",
+          "author": "FLOLiO",
+          "description": "NFT rug pulls happen when a type of fraud that occurs. Discover our guide to rug pulls and how to avoid becoming a victim of a rug pull",
+          "link": "https://flolio.com/resources/rug-pull",
+          "publishedOn": "2022-07-20T14:00:00.000Z",
+          "wordCount": 3241,
+          "title": "What Is A Rug Pull in NFT?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/rug-pull.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=2957",
+          "author": "FLOLiO",
+          "description": "NFTs are non-fungible tokens, and they can be given as gifts. Discover our guide on how to give NFTs as a gift.",
+          "link": "https://flolio.com/resources/nft-gift",
+          "publishedOn": "2022-07-19T14:00:00.000Z",
+          "wordCount": 3604,
+          "title": "How to give NFTs as a Gift?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-gift.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=2953",
           "author": "FLOLiO",
           "description": "Learn how to mine NFTs on the Ethereum blockchain with this beginner-friendly guide.",
@@ -144,36 +184,6 @@
           "wordCount": 6927,
           "title": "10 NFT Rarity Ranking Tools Whales Use to Profit",
           "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-rarity-ranking-tool.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=3121",
-          "author": "FLOLiO",
-          "description": "The rise of the non-fungible token from a speculative asset class into a high-value commodity has generated widespread attention both in the press and on social media. While the growing acceptance of digital art has helped propel NFT ecosystems to new heights, there are many members of the crypto community who remain skeptical about the [...]",
-          "link": "https://flolio.com/resources/nft-valuation",
-          "publishedOn": "2022-06-24T12:27:00.000Z",
-          "wordCount": 4396,
-          "title": "How Do You Know If NFTs Are Valuable?",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-valuation.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=3469",
-          "author": "FLOLiO",
-          "description": "In a move that is sure to solidify its place as the leading decentralized exchange, Uniswap Labs has announced the acquisition of Genie, the first NFT market aggregator.  With a current market share of over 80%, this move will only serve to increase Uniswap’s dominance in the space. Founded by Hayden Adams, Uniswap has been [...]",
-          "link": "https://flolio.com/resources/uniswap-genie",
-          "publishedOn": "2022-06-23T14:42:00.000Z",
-          "wordCount": 3357,
-          "title": "Uniswap NFT – The Unification",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/uniswap-genie.png"
-        },
-        {
-          "id": "https://flolio.com/resources/?p=3382",
-          "author": "FLOLiO",
-          "description": "In recent months, the term “price floor” has become increasingly common in discussions about NFTs. So what exactly is a price floor, and why is it relevant to the NFT market? In the NFT space, there are two seemingly simple propositions. One is that an NFT should be worth how much someone is willing to [...]",
-          "link": "https://flolio.com/resources/nft-floor-price",
-          "publishedOn": "2022-06-23T13:58:00.000Z",
-          "wordCount": 4888,
-          "title": "What is Floor Price NFT?",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-floor-price.png"
         }
       ]
     }

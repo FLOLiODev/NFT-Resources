@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-23T01:45:24.944Z</updated>
+    <updated>2022-07-24T01:54:04.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Top NFT Platforms to Buy and Sell NFTs in 2022]]></title>
+        <id>https://flolio.com/resources/?p=2933</id>
+        <link href="https://flolio.com/resources/top-nft-platforms"/>
+        <updated>2022-07-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover the best NFT marketplaces to buy and sell NFTs. We review the top NFT platforms that provide a safe and secure place for your NFT transactions]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best NFT Games in 2022]]></title>
+        <id>https://flolio.com/resources/?p=2937</id>
+        <link href="https://flolio.com/resources/best-nft-games"/>
+        <updated>2022-07-21T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Games that use non-fungible tokens (NFTs) are offering players fresh new experiences, discover our list of the best NFT games in 2022]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is A Rug Pull in NFT?]]></title>
+        <id>https://flolio.com/resources/?p=2945</id>
+        <link href="https://flolio.com/resources/rug-pull"/>
+        <updated>2022-07-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NFT rug pulls happen when a type of fraud that occurs. Discover our guide to rug pulls and how to avoid becoming a victim of a rug pull]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to give NFTs as a Gift?]]></title>
+        <id>https://flolio.com/resources/?p=2957</id>
+        <link href="https://flolio.com/resources/nft-gift"/>
+        <updated>2022-07-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NFTs are non-fungible tokens, and they can be given as gifts. Discover our guide on how to give NFTs as a gift.]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can You Mine NFTs?]]></title>
         <id>https://flolio.com/resources/?p=2953</id>
@@ -142,36 +182,6 @@
         <link href="https://flolio.com/resources/nft-rarity-ranking-tool"/>
         <updated>2022-06-27T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[It is a wild and confusing world out there, and the introduction of the blockchain only opened an entirely new space of cryptocurrencies, NFTs, and Web 3.0. To fully understand some of the complex aspects of the industry, it is important to break down the definitions of the newly formed vocabulary. Additionally, learning the tools [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do You Know If NFTs Are Valuable?]]></title>
-        <id>https://flolio.com/resources/?p=3121</id>
-        <link href="https://flolio.com/resources/nft-valuation"/>
-        <updated>2022-06-24T12:27:00.000Z</updated>
-        <summary type="html"><![CDATA[The rise of the non-fungible token from a speculative asset class into a high-value commodity has generated widespread attention both in the press and on social media. While the growing acceptance of digital art has helped propel NFT ecosystems to new heights, there are many members of the crypto community who remain skeptical about the [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap NFT – The Unification]]></title>
-        <id>https://flolio.com/resources/?p=3469</id>
-        <link href="https://flolio.com/resources/uniswap-genie"/>
-        <updated>2022-06-23T14:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In a move that is sure to solidify its place as the leading decentralized exchange, Uniswap Labs has announced the acquisition of Genie, the first NFT market aggregator.  With a current market share of over 80%, this move will only serve to increase Uniswap’s dominance in the space. Founded by Hayden Adams, Uniswap has been [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Floor Price NFT?]]></title>
-        <id>https://flolio.com/resources/?p=3382</id>
-        <link href="https://flolio.com/resources/nft-floor-price"/>
-        <updated>2022-06-23T13:58:00.000Z</updated>
-        <summary type="html"><![CDATA[In recent months, the term “price floor” has become increasingly common in discussions about NFTs. So what exactly is a price floor, and why is it relevant to the NFT market? In the NFT space, there are two seemingly simple propositions. One is that an NFT should be worth how much someone is willing to [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
