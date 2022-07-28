@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-27T01:48:42.928Z</updated>
+    <updated>2022-07-28T01:45:17.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -172,16 +172,6 @@
         <link href="https://flolio.com/resources/ngmi-wagmi"/>
         <updated>2022-06-28T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[The rise of the non-fungible token from a little-known digital item into a multi-million dollar market has created a unique community of adoptees that use social media sites and chat groups to interact and share ideas. Because of the novelty of NFTs and the exclusivity of these groups, crypto enthusiasts have developed a vast number [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 NFT Rarity Ranking Tools Whales Use to Profit]]></title>
-        <id>https://flolio.com/resources/?p=3139</id>
-        <link href="https://flolio.com/resources/nft-rarity-ranking-tool"/>
-        <updated>2022-06-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It is a wild and confusing world out there, and the introduction of the blockchain only opened an entirely new space of cryptocurrencies, NFTs, and Web 3.0. To fully understand some of the complex aspects of the industry, it is important to break down the definitions of the newly formed vocabulary. Additionally, learning the tools [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
