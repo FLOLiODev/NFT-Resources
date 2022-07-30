@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-29T01:53:41.006Z</updated>
+    <updated>2022-07-30T01:45:08.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -152,16 +152,6 @@
         <link href="https://flolio.com/resources/best-nft-discord-communities"/>
         <updated>2022-06-30T14:05:00.000Z</updated>
         <summary type="html"><![CDATA[Whether you are just starting out on your NFT venture, or you’re already an “old pro” in the industry, there are always benefits to learning from those around you. Discord is just one of many applications that can be used as an educational tool in your NFT game. From joining robust NFT communities to learning [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can You Delete an NFT?]]></title>
-        <id>https://flolio.com/resources/?p=2858</id>
-        <link href="https://flolio.com/resources/delete-nft"/>
-        <updated>2022-06-29T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Non-fungible tokens are not merely a string of numbers. They are backed by smart contracts, which are essentially a sort of digital self-executing contract. If you have a non-fungible token that has no market value or is otherwise useless to you, you can delete it. If you are a beginner with limited knowledge and just [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
