@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-30T01:45:08.802Z</updated>
+    <updated>2022-07-31T01:57:12.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -142,16 +142,6 @@
         <link href="https://flolio.com/resources/what-is-x2y2"/>
         <updated>2022-07-01T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[The online world of buying, selling, and trading NFTs, as well as the cryptocurrency marketplace, can be a confusing and jumbled mess of numbers, letters, unknown abbreviations, and jargon. To operate in the space, it is crucial to break down the meanings of the phrases and words used, so you can make informed decisions about [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best NFT Discord Communities to Join in 2022]]></title>
-        <id>https://flolio.com/resources/?p=2909</id>
-        <link href="https://flolio.com/resources/best-nft-discord-communities"/>
-        <updated>2022-06-30T14:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Whether you are just starting out on your NFT venture, or you’re already an “old pro” in the industry, there are always benefits to learning from those around you. Discord is just one of many applications that can be used as an educational tool in your NFT game. From joining robust NFT communities to learning [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
