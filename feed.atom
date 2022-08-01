@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-31T01:57:12.653Z</updated>
+    <updated>2022-08-01T01:56:47.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -132,16 +132,6 @@
         <link href="https://flolio.com/resources/what-is-looksrare"/>
         <updated>2022-07-06T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[One of the most talked-about NFT platforms of 2022, LooksRare has been described as an early model of a community-first NFT marketplace that puts people above profit. LooksRare aims to transform the NFT market through its unique buying and selling system, which actively rewards users every time they make a transaction. The LooksRare team has [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is X2Y2?]]></title>
-        <id>https://flolio.com/resources/?p=2618</id>
-        <link href="https://flolio.com/resources/what-is-x2y2"/>
-        <updated>2022-07-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The online world of buying, selling, and trading NFTs, as well as the cryptocurrency marketplace, can be a confusing and jumbled mess of numbers, letters, unknown abbreviations, and jargon. To operate in the space, it is crucial to break down the meanings of the phrases and words used, so you can make informed decisions about [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
