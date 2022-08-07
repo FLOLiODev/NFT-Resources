@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-06T01:26:20.817Z</updated>
+    <updated>2022-08-07T01:47:35.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -112,16 +112,6 @@
         <link href="https://flolio.com/resources/nft-communities"/>
         <updated>2022-07-08T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[If you are ready to take a dive into the crazed and varied world of the non-fungible token, you aren’t alone. This phenomenon has taken the world by storm, offering a unique investment, collecting, and artistic option for users all over the globe. If you are just starting out in this adventure, it can be [...]]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Blue Chip NFTs]]></title>
-        <id>https://flolio.com/resources/?p=2772</id>
-        <link href="https://flolio.com/resources/blue-chip-nfts"/>
-        <updated>2022-07-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blue Chip is an investment term that first surfaced in the 1920s when Oliver Gingold, a stock quote clerk at Dow Jones & Company, noticed that certain high-priced stocks were trading at $200 or more per share. Poker players bet in blue, white, and red chips with the blue chips having a higher value. Blue-chip [...]]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
