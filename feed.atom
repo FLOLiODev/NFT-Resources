@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-10T01:36:07.982Z</updated>
+    <updated>2022-08-11T01:37:52.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -92,16 +92,6 @@
         <link href="https://flolio.com/resources/delete-nft-looksrare"/>
         <updated>2022-07-12T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[There are various reasons an NFT collector would want or need to delete an NFT. Discover our guide on how to delete NFTs on Looksrare.]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Wash Trading?]]></title>
-        <id>https://flolio.com/resources/?p=2901</id>
-        <link href="https://flolio.com/resources/wash-trading"/>
-        <updated>2022-07-11T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn about wash trading, a form of market manipulation that can be used to artificially increase the price of a cryptocurrency or NFT.]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
