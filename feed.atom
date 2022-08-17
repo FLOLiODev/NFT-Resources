@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-16T01:52:21.137Z</updated>
+    <updated>2022-08-17T02:00:04.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -42,16 +42,6 @@
         <link href="https://flolio.com/resources/nft-gift"/>
         <updated>2022-07-19T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[NFTs are non-fungible tokens, and they can be given as gifts. Discover our guide on how to give NFTs as a gift.]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can You Mine NFTs?]]></title>
-        <id>https://flolio.com/resources/?p=2953</id>
-        <link href="https://flolio.com/resources/nft-mining"/>
-        <updated>2022-07-18T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to mine NFTs on the Ethereum blockchain with this beginner-friendly guide.]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
