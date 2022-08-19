@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-18T01:55:13.753Z</updated>
+    <updated>2022-08-19T01:50:48.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -32,16 +32,6 @@
         <link href="https://flolio.com/resources/rug-pull"/>
         <updated>2022-07-20T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[NFT rug pulls happen when a type of fraud that occurs. Discover our guide to rug pulls and how to avoid becoming a victim of a rug pull]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to give NFTs as a Gift?]]></title>
-        <id>https://flolio.com/resources/?p=2957</id>
-        <link href="https://flolio.com/resources/nft-gift"/>
-        <updated>2022-07-19T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[NFTs are non-fungible tokens, and they can be given as gifts. Discover our guide on how to give NFTs as a gift.]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
