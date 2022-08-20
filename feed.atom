@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-19T01:50:48.330Z</updated>
+    <updated>2022-08-20T01:46:59.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -22,16 +22,6 @@
         <link href="https://flolio.com/resources/best-nft-games"/>
         <updated>2022-07-21T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Games that use non-fungible tokens (NFTs) are offering players fresh new experiences, discover our list of the best NFT games in 2022]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is A Rug Pull in NFT?]]></title>
-        <id>https://flolio.com/resources/?p=2945</id>
-        <link href="https://flolio.com/resources/rug-pull"/>
-        <updated>2022-07-20T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[NFT rug pulls happen when a type of fraud that occurs. Discover our guide to rug pulls and how to avoid becoming a victim of a rug pull]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
