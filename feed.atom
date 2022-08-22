@@ -2,18 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-21T01:44:30.493Z</updated>
+    <updated>2022-08-22T01:48:53.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[Top NFT Platforms to Buy and Sell NFTs in 2022]]></title>
-        <id>https://flolio.com/resources/?p=2933</id>
-        <link href="https://flolio.com/resources/top-nft-platforms"/>
-        <updated>2022-07-22T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover the best NFT marketplaces to buy and sell NFTs. We review the top NFT platforms that provide a safe and secure place for your NFT transactions]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
 </feed>

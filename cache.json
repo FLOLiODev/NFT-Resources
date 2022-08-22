@@ -4,18 +4,7 @@
       "title": "FLOLiO",
       "feedUrl": "https://flolio.com/resources/feed",
       "siteUrl": "https://flolio.com/resources",
-      "articles": [
-        {
-          "id": "https://flolio.com/resources/?p=2933",
-          "author": "FLOLiO",
-          "description": "Discover the best NFT marketplaces to buy and sell NFTs. We review the top NFT platforms that provide a safe and secure place for your NFT transactions",
-          "link": "https://flolio.com/resources/top-nft-platforms",
-          "publishedOn": "2022-07-22T14:00:00.000Z",
-          "wordCount": 6332,
-          "title": "Top NFT Platforms to Buy and Sell NFTs in 2022",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/best-nft-marketplace.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
