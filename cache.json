@@ -4,7 +4,98 @@
       "title": "FLOLiO",
       "feedUrl": "https://flolio.com/resources/feed",
       "siteUrl": "https://flolio.com/resources",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://flolio.com/resources/?p=3482",
+          "author": "FLOLiO",
+          "description": "This article is all about how to find successful NFT collections. Discover some of the most successful NFT projects and the way to spot the next trending collection",
+          "link": "https://flolio.com/resources/finding-successful-nfts",
+          "publishedOn": "2022-08-24T14:00:00.000Z",
+          "wordCount": 5969,
+          "title": "Finding Successful NFT Collections",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/successful-nfts.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=3486",
+          "author": "FLOLiO",
+          "description": "NFTs are stored on the blockchain. The end. Kidding. Discover the complex definitions and technologies behind where NFTs are stored",
+          "link": "https://flolio.com/resources/where-are-nfts-stored",
+          "publishedOn": "2022-08-22T14:00:00.000Z",
+          "wordCount": 6164,
+          "title": "Where Are NFTs Stored?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/where-are-nfts-restored.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=3158",
+          "author": "FLOLiO",
+          "description": "The NFT marketing guide is a comprehensive, easy-to-follow resource for understanding the NFT ecosystem, building your brand and driving sales.",
+          "link": "https://flolio.com/resources/nft-marketing-guide",
+          "publishedOn": "2022-08-19T14:00:00.000Z",
+          "wordCount": 8325,
+          "title": "NFT Marketing Guide",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-marketing-guide.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=3152",
+          "author": "FLOLiO",
+          "description": "If you're into NFTs and want to learn more about the space, our list of the top NFT influencers is a great place to start.",
+          "link": "https://flolio.com/resources/nft-influencers",
+          "publishedOn": "2022-08-17T14:00:00.000Z",
+          "wordCount": 5412,
+          "title": "Top NFT Influencers to Follow in 2022",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/nft-influencers.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=3144",
+          "author": "FLOLiO",
+          "description": "A utility token is designed for use with a specific dApp, platform, or protocol. Discover how utility tokens have the potential to disrupt markets.",
+          "link": "https://flolio.com/resources/utility-tokens",
+          "publishedOn": "2022-08-15T14:00:00.000Z",
+          "wordCount": 4732,
+          "title": "What are Utility Tokens?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/what-are-utility-tokens.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=3108",
+          "author": "FLOLiO",
+          "description": "Are you thinking of buying NFTs? This article will explain how much NFTs cost, and how much they are likely to cost in the future.",
+          "link": "https://flolio.com/resources/how-much-are-nfts",
+          "publishedOn": "2022-08-12T14:00:00.000Z",
+          "wordCount": 6152,
+          "title": "How Much are NFTs",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/how-much-are-nfts.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=3117",
+          "author": "FLOLiO",
+          "description": "Want to know the best NFT stocks to buy? There's no shortage of NFT stock markets to choose from, our guide will give you the best picks for 2022.",
+          "link": "https://flolio.com/resources/best-nft-stocks",
+          "publishedOn": "2022-08-10T14:00:00.000Z",
+          "wordCount": 5798,
+          "title": "Best NFT Stocks to Buy in 2022",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/best-nft-stocks.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=3125",
+          "author": "FLOLiO",
+          "description": "Discover our simple 6 steps to create NFTs using the best NFT apps on the market. We review the features offered by 16 NFT creator tools",
+          "link": "https://flolio.com/resources/best-nft-creator-app",
+          "publishedOn": "2022-08-08T14:00:00.000Z",
+          "wordCount": 5809,
+          "title": "Best NFT Creator Apps for 2022",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/best-nft-creator-app.png"
+        },
+        {
+          "id": "https://flolio.com/resources/?p=3129",
+          "author": "FLOLiO",
+          "description": "What can a hashgraph be used for? Is it secure and scalable? Learn more about this new distributed ledger technology.",
+          "link": "https://flolio.com/resources/hashgraph",
+          "publishedOn": "2022-08-05T14:00:00.000Z",
+          "wordCount": 4409,
+          "title": "What Can A Hashgraph Be Used For?",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/hash-graph.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

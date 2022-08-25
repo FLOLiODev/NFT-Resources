@@ -2,8 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-24T01:53:48.526Z</updated>
+    <updated>2022-08-25T01:56:04.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Finding Successful NFT Collections]]></title>
+        <id>https://flolio.com/resources/?p=3482</id>
+        <link href="https://flolio.com/resources/finding-successful-nfts"/>
+        <updated>2022-08-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article is all about how to find successful NFT collections. Discover some of the most successful NFT projects and the way to spot the next trending collection]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Are NFTs Stored?]]></title>
+        <id>https://flolio.com/resources/?p=3486</id>
+        <link href="https://flolio.com/resources/where-are-nfts-stored"/>
+        <updated>2022-08-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NFTs are stored on the blockchain. The end. Kidding. Discover the complex definitions and technologies behind where NFTs are stored]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT Marketing Guide]]></title>
+        <id>https://flolio.com/resources/?p=3158</id>
+        <link href="https://flolio.com/resources/nft-marketing-guide"/>
+        <updated>2022-08-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The NFT marketing guide is a comprehensive, easy-to-follow resource for understanding the NFT ecosystem, building your brand and driving sales.]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top NFT Influencers to Follow in 2022]]></title>
+        <id>https://flolio.com/resources/?p=3152</id>
+        <link href="https://flolio.com/resources/nft-influencers"/>
+        <updated>2022-08-17T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you're into NFTs and want to learn more about the space, our list of the top NFT influencers is a great place to start.]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Utility Tokens?]]></title>
+        <id>https://flolio.com/resources/?p=3144</id>
+        <link href="https://flolio.com/resources/utility-tokens"/>
+        <updated>2022-08-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A utility token is designed for use with a specific dApp, platform, or protocol. Discover how utility tokens have the potential to disrupt markets.]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Much are NFTs]]></title>
+        <id>https://flolio.com/resources/?p=3108</id>
+        <link href="https://flolio.com/resources/how-much-are-nfts"/>
+        <updated>2022-08-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you thinking of buying NFTs? This article will explain how much NFTs cost, and how much they are likely to cost in the future.]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best NFT Stocks to Buy in 2022]]></title>
+        <id>https://flolio.com/resources/?p=3117</id>
+        <link href="https://flolio.com/resources/best-nft-stocks"/>
+        <updated>2022-08-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to know the best NFT stocks to buy? There's no shortage of NFT stock markets to choose from, our guide will give you the best picks for 2022.]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best NFT Creator Apps for 2022]]></title>
+        <id>https://flolio.com/resources/?p=3125</id>
+        <link href="https://flolio.com/resources/best-nft-creator-app"/>
+        <updated>2022-08-08T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover our simple 6 steps to create NFTs using the best NFT apps on the market. We review the features offered by 16 NFT creator tools]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Can A Hashgraph Be Used For?]]></title>
+        <id>https://flolio.com/resources/?p=3129</id>
+        <link href="https://flolio.com/resources/hashgraph"/>
+        <updated>2022-08-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What can a hashgraph be used for? Is it secure and scalable? Learn more about this new distributed ledger technology.]]></summary>
+        <author>
+            <name>FLOLiO</name>
+        </author>
+    </entry>
 </feed>
