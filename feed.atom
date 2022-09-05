@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-04T01:54:00.760Z</updated>
+    <updated>2022-09-05T02:03:53.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -92,16 +92,6 @@
         <link href="https://flolio.com/resources/best-nft-creator-app"/>
         <updated>2022-08-08T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Discover our simple 6 steps to create NFTs using the best NFT apps on the market. We review the features offered by 16 NFT creator tools]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Can A Hashgraph Be Used For?]]></title>
-        <id>https://flolio.com/resources/?p=3129</id>
-        <link href="https://flolio.com/resources/hashgraph"/>
-        <updated>2022-08-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What can a hashgraph be used for? Is it secure and scalable? Learn more about this new distributed ledger technology.]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
