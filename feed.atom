@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-08T01:59:40.460Z</updated>
+    <updated>2022-09-09T02:05:11.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -72,16 +72,6 @@
         <link href="https://flolio.com/resources/how-much-are-nfts"/>
         <updated>2022-08-12T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Are you thinking of buying NFTs? This article will explain how much NFTs cost, and how much they are likely to cost in the future.]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best NFT Stocks to Buy in 2022]]></title>
-        <id>https://flolio.com/resources/?p=3117</id>
-        <link href="https://flolio.com/resources/best-nft-stocks"/>
-        <updated>2022-08-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to know the best NFT stocks to buy? There's no shortage of NFT stock markets to choose from, our guide will give you the best picks for 2022.]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
