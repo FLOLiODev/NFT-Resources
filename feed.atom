@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-11T01:59:30.298Z</updated>
+    <updated>2022-09-12T02:07:59.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -62,16 +62,6 @@
         <link href="https://flolio.com/resources/utility-tokens"/>
         <updated>2022-08-15T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[A utility token is designed for use with a specific dApp, platform, or protocol. Discover how utility tokens have the potential to disrupt markets.]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Much are NFTs]]></title>
-        <id>https://flolio.com/resources/?p=3108</id>
-        <link href="https://flolio.com/resources/how-much-are-nfts"/>
-        <updated>2022-08-12T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you thinking of buying NFTs? This article will explain how much NFTs cost, and how much they are likely to cost in the future.]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
