@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-14T01:59:16.606Z</updated>
+    <updated>2022-09-15T02:06:41.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -52,16 +52,6 @@
         <link href="https://flolio.com/resources/nft-influencers"/>
         <updated>2022-08-17T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[If you're into NFTs and want to learn more about the space, our list of the top NFT influencers is a great place to start.]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Utility Tokens?]]></title>
-        <id>https://flolio.com/resources/?p=3144</id>
-        <link href="https://flolio.com/resources/utility-tokens"/>
-        <updated>2022-08-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A utility token is designed for use with a specific dApp, platform, or protocol. Discover how utility tokens have the potential to disrupt markets.]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
