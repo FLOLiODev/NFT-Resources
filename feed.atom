@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-22T01:58:59.532Z</updated>
+    <updated>2022-09-23T02:05:24.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -12,16 +12,6 @@
         <link href="https://flolio.com/resources/nft-marketing-checklist"/>
         <updated>2022-08-26T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[This NFT Marketing Checklist  - a comprehensive list of NFT advertising options that covers everything you need to know on how to market an NFT collection]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding Successful NFT Collections]]></title>
-        <id>https://flolio.com/resources/?p=3482</id>
-        <link href="https://flolio.com/resources/finding-successful-nfts"/>
-        <updated>2022-08-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article is all about how to find successful NFT collections. Discover some of the most successful NFT projects and the way to spot the next trending collection]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
