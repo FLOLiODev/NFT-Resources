@@ -6,6 +6,16 @@
       "siteUrl": "https://flolio.com/resources",
       "articles": [
         {
+          "id": "https://flolio.com/resources/?p=4978",
+          "author": "FLOLiO",
+          "description": "Get ready to launch your NFTs into the world with our NFT Launch Pad.",
+          "link": "https://flolio.com/resources/the-ultimate-guide-to-launching-your-nft-on-a-launchpad",
+          "publishedOn": "2023-02-24T14:00:00.000Z",
+          "wordCount": 5263,
+          "title": "The Ultimate Guide to Launching Your NFT on a Launchpad",
+          "imageUrl": "https://flolio.com/resources/wp-content/uploads/THE-ULTIMATE-GUIDE.png"
+        },
+        {
           "id": "https://flolio.com/resources/?p=4968",
           "author": "FLOLiO",
           "description": "Get started with NFT launchpads and learn how they're changing the game for NFT creators.",
