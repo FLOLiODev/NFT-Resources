@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-24T01:10:22.119Z</updated>
+    <updated>2023-03-25T01:08:03.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
@@ -12,16 +12,6 @@
         <link href="https://flolio.com/resources/the-ultimate-guide-to-launching-your-nft-on-a-launchpad"/>
         <updated>2023-02-24T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Get ready to launch your NFTs into the world with our NFT Launch Pad.]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an NFT Launchpad and Why is it Important for Digital Collectibles?]]></title>
-        <id>https://flolio.com/resources/?p=4968</id>
-        <link href="https://flolio.com/resources/what-is-an-nft-launchpad"/>
-        <updated>2023-02-22T23:49:56.000Z</updated>
-        <summary type="html"><![CDATA[Get started with NFT launchpads and learn how they're changing the game for NFT creators.]]></summary>
         <author>
             <name>FLOLiO</name>
         </author>
