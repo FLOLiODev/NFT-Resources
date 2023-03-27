@@ -2,18 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-26T01:15:42.468Z</updated>
+    <updated>2023-03-27T01:09:26.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to Launching Your NFT on a Launchpad]]></title>
-        <id>https://flolio.com/resources/?p=4978</id>
-        <link href="https://flolio.com/resources/the-ultimate-guide-to-launching-your-nft-on-a-launchpad"/>
-        <updated>2023-02-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get ready to launch your NFTs into the world with our NFT Launch Pad.]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
 </feed>
