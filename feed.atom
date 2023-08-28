@@ -2,18 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://floliodev.github.io/nft-resources/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-27T01:01:09.493Z</updated>
+    <updated>2023-08-28T00:58:40.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://floliodev.github.io/nft-resources/index.html"/>
     <link rel="self" href="https://floliodev.github.io/nft-resources/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[Revolutionizing Web2 & Web3 Marketing: PerxPal & FLOLiO’s Attribution Tracking Success Story!]]></title>
-        <id>https://flolio.com/resources/?p=5079</id>
-        <link href="https://flolio.com/resources/web2-web3-marketing-perxpal-flolio-attribution-tracking-case-study"/>
-        <updated>2023-07-28T18:11:45.000Z</updated>
-        <summary type="html"><![CDATA[Discover how PerxPal and FLOLiO joined forces to bridge the Web2 & Web3 funnel divide, leveraging advanced attribution tracking to revolutionize marketing strategies. Uncover the power of accurate data insights, seamless user tracking, and AI-driven optimization that propelled PerxPal's growth and success. Don't miss this game-changing case study, and explore how FLOLiO's cutting-edge solutions can elevate your project to new heights.]]></summary>
-        <author>
-            <name>FLOLiO</name>
-        </author>
-    </entry>
 </feed>

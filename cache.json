@@ -4,18 +4,7 @@
       "title": "FLOLiO",
       "feedUrl": "https://flolio.com/resources/feed",
       "siteUrl": "https://flolio.com/resources",
-      "articles": [
-        {
-          "id": "https://flolio.com/resources/?p=5079",
-          "author": "FLOLiO",
-          "description": "Discover how PerxPal and FLOLiO joined forces to bridge the Web2 & Web3 funnel divide, leveraging advanced attribution tracking to revolutionize marketing strategies. Uncover the power of accurate data insights, seamless user tracking, and AI-driven optimization that propelled PerxPal's growth and success. Don't miss this game-changing case study, and explore how FLOLiO's cutting-edge solutions can elevate your project to new heights.",
-          "link": "https://flolio.com/resources/web2-web3-marketing-perxpal-flolio-attribution-tracking-case-study",
-          "publishedOn": "2023-07-28T18:11:45.000Z",
-          "wordCount": 4052,
-          "title": "Revolutionizing Web2 & Web3 Marketing: PerxPal & FLOLiO’s Attribution Tracking Success Story!",
-          "imageUrl": "https://flolio.com/resources/wp-content/uploads/attribution-tracking-case-study.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
